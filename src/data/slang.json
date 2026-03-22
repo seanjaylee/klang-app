@@ -1,0 +1,2802 @@
+[
+  {
+    "id": 1,
+    "korean": "갓생",
+    "romanization": "Gat-saeng",
+    "meaning": "Living a diligent and productive life that others admire.",
+    "context": "Living a diligent and productive life that others admire.",
+    "origin": "Combines 'God' and 'Saeng' (Life).",
+    "usageExample": {
+      "kr": "오늘부터 6시 기상해서 운동하는 갓생 살 거야.",
+      "en": "I'm going to live a 'God-life' by waking up at 6 and exercising."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B0%93%EC%83%9D",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 2,
+    "korean": "폼 미쳤다",
+    "romanization": "Pom Mi-chyeot-da",
+    "meaning": "One's form/skill/appearance is insane or at its peak.",
+    "context": "One's form/skill/appearance is insane or at its peak.",
+    "origin": "Originally used in sports, now used for anyone doing something impressively.",
+    "usageExample": {
+      "kr": "와, 오늘 너 착장 폼 미쳤다!",
+      "en": "Wow, your outfit today is insane!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%8F%BC%20%EB%AF%B8%EC%B3%A4%EB%8B%A4",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 3,
+    "korean": "중꺾마",
+    "romanization": "Jung-kkeok-ma",
+    "meaning": "The important thing is an unbreakable heart. Persisting despite failures.",
+    "context": "The important thing is an unbreakable heart. Persisting despite failures.",
+    "origin": "Originated from a LoL player's interview during Worlds 2022.",
+    "usageExample": {
+      "kr": "성적이 안 좋지만 중꺾마 정신으로 버틴다.",
+      "en": "My grades are bad, but I'll endure with an unbreakable heart."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%A4%91%EB%83%8F%EB%A7%88",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 4,
+    "korean": "오운완",
+    "romanization": "O-un-wan",
+    "meaning": "Today's workout finished. Used with workout proof photos.",
+    "context": "Today's workout finished. Used with workout proof photos.",
+    "origin": "Short for 'Oneul Undong Wan-ryeo'.",
+    "usageExample": {
+      "kr": "인스타에 오운완 인증샷 올렸어.",
+      "en": "I posted a 'workout finished' proof shot on Instagram."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%98%A4%EC%9A%B4%EC%99%84",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 5,
+    "korean": "자만추",
+    "romanization": "Ja-man-chu",
+    "meaning": "Seeking a natural encounter to start a romantic relationship.",
+    "context": "Seeking a natural encounter to start a romantic relationship.",
+    "origin": "Short for 'Ja-yeon-seu-reoun Man-nam Chu-gu'.",
+    "usageExample": {
+      "kr": "소개팅보다는 자만추가 더 좋아.",
+      "en": "I prefer natural encounters over blind dates."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%9E%90%EB%A7%8C%EC%B3%94",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 6,
+    "korean": "내돈내산",
+    "romanization": "Nae-don-nae-san",
+    "meaning": "Bought with my own money. Used to show a review is not sponsored.",
+    "context": "Bought with my own money. Used to show a review is not sponsored.",
+    "origin": "Short for 'Nae Don-euro Nae-ga San'.",
+    "usageExample": {
+      "kr": "이건 광고 아니고 진짜 내돈내산 후기야.",
+      "en": "This isn't an ad; it's a review of something I bought with my own money."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%82%B4%EB%8F%88%EB%82%B4%EC%82%B0",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 7,
+    "korean": "소확행",
+    "romanization": "So-hwak-haeng",
+    "meaning": "Small but certain happiness found in daily life.",
+    "context": "Small but certain happiness found in daily life.",
+    "origin": "Originally from a Haruki Murakami essay.",
+    "usageExample": {
+      "kr": "퇴근 후 맥주 한 잔이 내 소확행이야.",
+      "en": "A glass of beer after work is my small but certain happiness."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%86%8C%ED%99%95%ED%96%89",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 8,
+    "korean": "TMI",
+    "romanization": "TMI",
+    "meaning": "Too Much Information. Sharing details that no one asked for.",
+    "context": "Too Much Information. Sharing details that no one asked for.",
+    "origin": "Loanword from English TMI.",
+    "usageExample": {
+      "kr": "오늘 아침 메뉴는 안 궁금해, 완전 TMI네.",
+      "en": "I'm not curious about your breakfast; that's total TMI."
+    },
+    "namuWikiLink": "https://namu.wiki/w/TMI",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 9,
+    "korean": "현타",
+    "romanization": "Hyeon-ta",
+    "meaning": "The moment of realization after an intense or vain experience (Reality Hit).",
+    "context": "The moment of realization after an intense or vain experience (Reality Hit).",
+    "origin": "Short for 'Hyeon-ja Ta-im'.",
+    "usageExample": {
+      "kr": "쇼핑하고 통장 보니까 바로 현타 오네.",
+      "en": "Looking at my bank account after shopping, reality hits me."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%98%84%ED%83%80",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 10,
+    "korean": "갑분싸",
+    "romanization": "Gap-bun-ssa",
+    "meaning": "Sudden awkward silence. When the mood suddenly turns cold.",
+    "context": "Sudden awkward silence. When the mood suddenly turns cold.",
+    "origin": "Short for 'Gap-ja-gi Bun-wi-gi Ssa-hae-jim'.",
+    "usageExample": {
+      "kr": "부장님 아재 개그 때문에 갑분싸 됐어.",
+      "en": "It became awkward because of the manager's dad joke."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B0%91%EB%B6%84%EC%82%AC",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 11,
+    "korean": "인싸",
+    "romanization": "In-ssa",
+    "meaning": "Insider. Someone who is popular and gets along well with others.",
+    "context": "Insider. Someone who is popular and gets along well with others.",
+    "origin": "Short for 'Insider'.",
+    "usageExample": {
+      "kr": "제 친구는 아는 사람이 정말 많은 인싸예요.",
+      "en": "My friend is an 'insider' who knows so many people."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%8D%94",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 12,
+    "korean": "아싸",
+    "romanization": "A-ssa",
+    "meaning": "Outsider. Someone who prefers to be alone or is not part of the 'cool' group.",
+    "context": "Outsider. Someone who prefers to be alone or is not part of the 'cool' group.",
+    "origin": "Short for 'Outsider'.",
+    "usageExample": {
+      "kr": "나는 혼자 노는 게 편한 자발적 아싸야.",
+      "en": "I'm a voluntary 'outsider' who prefers being alone."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%95%84%EC%9B%83%EC%82%AC%EC%9D%B4%EB%8D%94",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 13,
+    "korean": "먹방",
+    "romanization": "Mukbang",
+    "meaning": "An online broadcast where the host eats a large amount of food.",
+    "context": "An online broadcast where the host eats a large amount of food.",
+    "origin": "Short for 'Meok-neun Bang-song'.",
+    "usageExample": {
+      "kr": "자기 전에 먹방 보면 배고파져.",
+      "en": "Watching a Mukbang before bed makes me hungry."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%A8%B9%EB%B0%A9",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 14,
+    "korean": "혼코노",
+    "romanization": "Hon-ko-no",
+    "meaning": "Going to a coin karaoke booth alone.",
+    "context": "Going to a coin karaoke booth alone.",
+    "origin": "Short for 'Hon-ja Ko-in No-rae-bang'.",
+    "usageExample": {
+      "kr": "스트레스 풀 때는 혼코노가 최고지.",
+      "en": "Going to coin karaoke alone is the best for stress relief."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%98%BC%EC%BD%94%EB%85%B8",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 15,
+    "korean": "별다줄",
+    "romanization": "Byeol-da-jul",
+    "meaning": "You're shortening everything. Used when someone uses too many abbreviations.",
+    "context": "You're shortening everything. Used when someone uses too many abbreviations.",
+    "origin": "Short for 'Byeol-geol Da Jul-in-da'.",
+    "usageExample": {
+      "kr": "그것까지 줄여? 진짜 별다줄이네.",
+      "en": "You're shortening even that? You really shorten everything."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%B3%84%EB%8B%A4%EC%A4%84",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 16,
+    "korean": "얼죽아",
+    "romanization": "Eol-juk-a",
+    "meaning": "Even if I freeze to death, I'll drink iced Americano.",
+    "context": "Even if I freeze to death, I'll drink iced Americano.",
+    "origin": "Short for 'Eol-eo Juk-eo-do A-i-seu'.",
+    "usageExample": {
+      "kr": "영하 10도에도 나는 얼죽아 회원이야.",
+      "en": "Even at -10 degrees, I'm an 'iced Americano even if I freeze' member."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%96%BC%EC%A3%BD%EC%95%84",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 17,
+    "korean": "꾸안꾸",
+    "romanization": "Ggu-an-ggu",
+    "meaning": "Looking like you didn't put effort into your style, even though you did.",
+    "context": "Looking like you didn't put effort into your style, even though you did.",
+    "origin": "Short for 'Ggu-min Deut An Ggu-min Deut'.",
+    "usageExample": {
+      "kr": "소개팅에는 꾸안꾸 스타일이 제일 좋아.",
+      "en": "The 'effortless' look is the best for a blind date."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%BE%B8%EC%95%88%EA%BE%B8",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 18,
+    "korean": "비담",
+    "romanization": "Bi-dam",
+    "meaning": "The most handsome or beautiful member in an idol group.",
+    "context": "The most handsome or beautiful member in an idol group.",
+    "origin": "Short for 'Bi-ju-eol Dam-dang'.",
+    "usageExample": {
+      "kr": "우리 그룹 비담은 역시 센터야.",
+      "en": "Our group's visual representative is definitely the center."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%B9%84%EC%A3%BC%EC%96%BC%20%EB%8B%B4%EB%8B%B9",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 19,
+    "korean": "최최차차",
+    "romanization": "Choe-choe-cha-cha",
+    "meaning": "My favorite is my favorite, but Cha Eun-woo is Cha Eun-woo.",
+    "context": "My favorite is my favorite, but Cha Eun-woo is Cha Eun-woo.",
+    "origin": "Meaning: No matter who your favorite idol is, everyone agrees Cha Eun-woo is handsome.",
+    "usageExample": {
+      "kr": "다들 최최차차라더니, 실물 대박이네.",
+      "en": "Everyone says 'favorite is favorite but Cha is Cha', he looks amazing in person."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%B2%B4%EC%B2%B4%EC%B0%A8%EC%B0%A8",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 20,
+    "korean": "스불재",
+    "romanization": "Seu-bul-jae",
+    "meaning": "A disaster brought upon oneself (e.g., overworking yourself).",
+    "context": "A disaster brought upon oneself (e.g., overworking yourself).",
+    "origin": "Short for 'Seu-seu-ro Bul-reo-on Jae-ang'.",
+    "usageExample": {
+      "kr": "마감 전날까지 놀다니, 이건 완전 스불재야.",
+      "en": "Playing until the day before the deadline, this is a self-inflicted disaster."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%8A%A4%EB%B6%88%EC%9E%AC",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 21,
+    "korean": "뇌피셜",
+    "romanization": "Noe-official",
+    "meaning": "One's own imagination or thoughts presented as if they were official facts.",
+    "context": "One's own imagination or thoughts presented as if they were official facts.",
+    "origin": "Combines 'Noe' (Brain) and 'Official'.",
+    "usageExample": {
+      "kr": "그건 공식 뉴스가 아니라 네 뇌피셜이지.",
+      "en": "That's not official news; it's just your own theory."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%87%8C%ED%94%BC%EC%85%9C",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 22,
+    "korean": "킹받네",
+    "romanization": "King-bat-ne",
+    "meaning": "Very annoying or irritating. 'King' is used as an intensifier.",
+    "context": "Very annoying or irritating. 'King' is used as an intensifier.",
+    "origin": "Combines 'King' and 'Yeol-bat-ne' (getting angry).",
+    "usageExample": {
+      "kr": "말투 진짜 킹받네, 조용히 좀 해.",
+      "en": "Your way of speaking is so annoying, please be quiet."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%82%B9%EB%B0%9B%EB%84%A4",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 23,
+    "korean": "어쩔티비",
+    "romanization": "Eo-jjeol-TV",
+    "meaning": "So what? Go watch TV. Used to shut down a conversation annoyingly.",
+    "context": "So what? Go watch TV. Used to shut down a conversation annoyingly.",
+    "origin": "Popular among elementary students and Gen Z.",
+    "usageExample": {
+      "kr": "내가 뭘 하든 어쩔티비!",
+      "en": "Whatever I do, so what?"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%96%B4%EC%A9%94%ED%8B%B0%EB%B9%84",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 24,
+    "korean": "점메추",
+    "romanization": "Jeom-me-chu",
+    "meaning": "Lunch menu recommendation.",
+    "context": "Lunch menu recommendation.",
+    "origin": "Short for 'Jeom-sim Me-nyu Chu-cheon'.",
+    "usageExample": {
+      "kr": "오늘 점메추 좀 해줄래?",
+      "en": "Can you recommend a lunch menu for today?"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%A4%84%EC%9E%84%EB%A7%90/%EC%82%AC%EB%A1%80",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 25,
+    "korean": "저메추",
+    "romanization": "Jeo-me-chu",
+    "meaning": "Dinner menu recommendation.",
+    "context": "Dinner menu recommendation.",
+    "origin": "Short for 'Jeo-nyeok Me-nyu Chu-cheon'.",
+    "usageExample": {
+      "kr": "배고프다. 저메추 부탁해!",
+      "en": "I'm hungry. Dinner recommendation, please!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%A4%84%EC%9E%84%EB%A7%90/%EC%82%AC%EB%A1%80",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 26,
+    "korean": "갈비",
+    "romanization": "Gal-bi",
+    "meaning": "The more I see you, the more I dislike you.",
+    "context": "The more I see you, the more I dislike you.",
+    "origin": "Short for 'Gal-su-rok Bi-ho-gam'.",
+    "usageExample": {
+      "kr": "처음엔 좋았는데 갈비 스타일이라 실망했어.",
+      "en": "I liked them at first, but I'm disappointed because they're the type that gets worse as I see them."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B0%88%EB%B9%84",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 27,
+    "korean": "졌잘싸",
+    "romanization": "Jyeot-jal-ssa",
+    "meaning": "Lost, but fought well.",
+    "context": "Lost, but fought well.",
+    "origin": "Short for 'Jyeoss-ji-man Jal Ssa-woss-da'.",
+    "usageExample": {
+      "kr": "우리 팀 오늘 비록 졌지만 졌잘싸였어!",
+      "en": "Our team lost today, but we fought well!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%A1%8C%EC%9E%98%EC%8B%B8",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 28,
+    "korean": "복붙",
+    "romanization": "Bok-but",
+    "meaning": "Copy and paste. Used for repeated text or people who look exactly alike.",
+    "context": "Copy and paste. Used for repeated text or people who look exactly alike.",
+    "origin": "Short for 'Bok-sa-hae-seo But-yeo-neoh-gi'.",
+    "usageExample": {
+      "kr": "이 보고서는 그냥 복붙 수준이네.",
+      "en": "This report is just at the level of copy-paste."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%B3%B5%EB%B6%99",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 29,
+    "korean": "영끌",
+    "romanization": "Yeong-kkeul",
+    "meaning": "Gathering everything, including one's soul, to achieve something (usually buying a house).",
+    "context": "Gathering everything, including one's soul, to achieve something (usually buying a house).",
+    "origin": "Short for 'Yeong-hon-kka-ji Kkeul-eo-mo-eu-da'.",
+    "usageExample": {
+      "kr": "영끌해서 아파트 샀는데 대출 이자가 무서워.",
+      "en": "I gathered everything to buy an apartment, but I'm scared of the loan interest."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%98%81%EB%81%8C",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 30,
+    "korean": "팩폭",
+    "romanization": "Paek-pok",
+    "meaning": "Fact violence. Attacking someone with painful, undeniable truths.",
+    "context": "Fact violence. Attacking someone with painful, undeniable truths.",
+    "origin": "Short for 'Fact Pok-gyeok'.",
+    "usageExample": {
+      "kr": "친구가 나한테 팩폭 해서 정신이 번쩍 들었어.",
+      "en": "My friend hit me with the truth, and I woke up."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%8C%A9%ED%8F%AD",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 31,
+    "korean": "워라밸",
+    "romanization": "Wo-ra-baal",
+    "meaning": "Work-Life Balance.",
+    "context": "Work-Life Balance.",
+    "origin": "Short for 'Work-Life Balance'.",
+    "usageExample": {
+      "kr": "나는 돈보다 워라밸이 더 중요해.",
+      "en": "To me, work-life balance is more important than money."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%9B%8C%EB%9D%BC%EB%B0%B8",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 32,
+    "korean": "소확횡",
+    "romanization": "So-hwak-hoeng",
+    "meaning": "Small but certain embezzlement. Small 'revenges' like taking office supplies home.",
+    "context": "Small but certain embezzlement. Small 'revenges' like taking office supplies home.",
+    "origin": "A pun on 'So-hwak-haeng'.",
+    "usageExample": {
+      "kr": "회사 탕비실 믹스커피 챙기는 게 내 소확횡이야.",
+      "en": "Taking mix coffee from the office pantry is my 'small embezzlement'."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%86%8C%ED%99%95%ED%9A%A1",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 33,
+    "korean": "손민수",
+    "romanization": "Son Min-su",
+    "meaning": "To copy someone's style or items. Named after a character in 'Cheese in the Trap'.",
+    "context": "To copy someone's style or items. Named after a character in 'Cheese in the Trap'.",
+    "origin": "Used when someone buys exactly what someone else has.",
+    "usageExample": {
+      "kr": "블랙핑크 제니 옷 손민수 하고 싶어.",
+      "en": "I want to copy Jennie's outfit."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%86%90%EB%AF%BC%EC%88%98(%EC%8B%A0%EC%A1%B0%EC%96%B4)",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 34,
+    "korean": "사바사",
+    "romanization": "Sa-ba-sa",
+    "meaning": "Person by person. Depends on the individual.",
+    "context": "Person by person. Depends on the individual.",
+    "origin": "Short for 'Sa-ram-by-Sa-ram'.",
+    "usageExample": {
+      "kr": "그 회사는 분위기가 어때? - 사바사지 뭐.",
+      "en": "How's the atmosphere at that company? - It depends on the person."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%82%AC%EB%B0%94%EC%82%AC",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 35,
+    "korean": "케바케",
+    "romanization": "Ke-ba-ke",
+    "meaning": "Case by case. Depends on the situation.",
+    "context": "Case by case. Depends on the situation.",
+    "origin": "Short for 'Case-by-Case'.",
+    "usageExample": {
+      "kr": "결과가 언제 나와요? - 그건 케바케예요.",
+      "en": "When will the results come out? - That depends on the case."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%BC%80%EB%B0%94%EC%BC%80",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 36,
+    "korean": "할많하않",
+    "romanization": "Hal-man-ha-anh",
+    "meaning": "I have a lot to say, but I won't.",
+    "context": "I have a lot to say, but I won't.",
+    "origin": "Short for 'Hal-mal-eun Man-chi-man Ha-ji Anh-get-da'.",
+    "usageExample": {
+      "kr": "방금 그 행동은 정말... 할많하않.",
+      "en": "That behavior just now was... I'll just say nothing."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%95%A0%EB%A7%8E%ED%95%98%EC%95%8A",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 37,
+    "korean": "갑통알",
+    "romanization": "Gap-tong-al",
+    "meaning": "The sudden realization of an empty bank account.",
+    "context": "The sudden realization of an empty bank account.",
+    "origin": "Short for 'Gap-ja-gi Tong-jang-eul bo-ni Al-ba-ha-go sip-da'.",
+    "usageExample": {
+      "kr": "옷 사고 나서 갑통알 와서 알바 구하는 중이야.",
+      "en": "After buying clothes, I realized I'm broke and am looking for a part-time job."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%A4%84%EC%9E%84%EB%A7%90/%EC%82%AC%EB%A1%80",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 38,
+    "korean": "낄낄빠빠",
+    "romanization": "Kkil-kkil-ppa-ppa",
+    "meaning": "Knowing when to join in and when to leave.",
+    "context": "Knowing when to join in and when to leave.",
+    "origin": "Short for 'Kkil-dae Kkil-go Ppa-jil-dae Ppa-ja'.",
+    "usageExample": {
+      "kr": "그 자리는 네가 갈 자리가 아니야. 낄낄빠빠 좀 해.",
+      "en": "That's not a place for you. Know when to stay out."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%81%BC%EB%81%BC%EB%B9%A0%EB%B9%A0",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 39,
+    "korean": "답정너",
+    "romanization": "Dap-jeong-neo",
+    "meaning": "You have already decided on the answer, and I just have to say it.",
+    "context": "You have already decided on the answer, and I just have to say it.",
+    "origin": "Short for 'Dap-eun Jeong-hae-jin-ni Neo-neun Dae-dap-man-hae'.",
+    "usageExample": {
+      "kr": "나 오늘 예뻐? - 어휴, 답정너 대답 듣고 싶어서 그러지?",
+      "en": "Am I pretty today? - Sigh, you're just looking for the answer you want, right?"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%8B%B5%EC%A0%95%EB%84%88",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 40,
+    "korean": "안물안궁",
+    "romanization": "An-mul-an-gung",
+    "meaning": "Didn't ask and not curious.",
+    "context": "Didn't ask and not curious.",
+    "origin": "Short for 'An Mul-eo-bwass-go An Gung-geum-hae'.",
+    "usageExample": {
+      "kr": "어제 내가 뭐 했냐면... - 안물안궁!",
+      "en": "Guess what I did yesterday... - Didn't ask, don't care!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%95%88%EB%AC%BC%EC%95%88%EA%B6%81",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 41,
+    "korean": "엄친아",
+    "romanization": "Eom-chin-a",
+    "meaning": "The perfect son of one's mother's friend (talented, handsome, successful).",
+    "context": "The perfect son of one's mother's friend (talented, handsome, successful).",
+    "origin": "Short for 'Eom-ma Chin-gu-ui A-deul'.",
+    "usageExample": {
+      "kr": "걔는 공부도 잘하고 성격도 좋아서 완전 엄친아잖아.",
+      "en": "He's smart and has a great personality; he's the perfect 'mother's friend's son'."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%97%84%EC%B9%9C%EC%95%84",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 42,
+    "korean": "케미",
+    "romanization": "Chemi",
+    "meaning": "Chemistry between people.",
+    "context": "Chemistry between people.",
+    "origin": "Loanword from English 'Chemistry'.",
+    "usageExample": {
+      "kr": "두 주인공의 케미가 영화의 흥행 비결이야.",
+      "en": "The chemistry between the two leads is the secret to the movie's success."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%BC%80%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%A6%AC#s-2",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 43,
+    "korean": "썸",
+    "romanization": "Ssom",
+    "meaning": "The stage before a romantic relationship (flirting).",
+    "context": "The stage before a romantic relationship (flirting).",
+    "origin": "Derived from 'Something'.",
+    "usageExample": {
+      "kr": "우리 지금 썸 타는 사이인 것 같아.",
+      "en": "I think we're in the 'something' stage."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%94%B8",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 44,
+    "korean": "밀당",
+    "romanization": "Mil-dang",
+    "meaning": "Push and pull in a relationship.",
+    "context": "Push and pull in a relationship.",
+    "origin": "Short for 'Mil-go Dang-gi-gi'.",
+    "usageExample": {
+      "kr": "너무 밀당만 하면 상대방이 지쳐.",
+      "en": "If you only play push and pull, the other person gets tired."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%B0%90%EB%8B%B9",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 45,
+    "korean": "볼매",
+    "romanization": "Bol-mae",
+    "meaning": "More attractive the more you look at them.",
+    "context": "More attractive the more you look at them.",
+    "origin": "Short for 'Bol-su-rok Mae-ryeok-it-da'.",
+    "usageExample": {
+      "kr": "그 사람은 처음보다 볼수록 볼매 스타일이야.",
+      "en": "That person is more charming the more I see them."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%B3%BC%EB%A7%A4",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 46,
+    "korean": "극혐",
+    "romanization": "Geuk-hyeom",
+    "meaning": "Extreme disgust.",
+    "context": "Extreme disgust.",
+    "origin": "Short for 'Geuk-han-ui Hyeom-o'.",
+    "usageExample": {
+      "kr": "청소를 안 하는 건 정말 극혐이야.",
+      "en": "Not cleaning is absolutely disgusting."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B7%B9%ED%98%90",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 47,
+    "korean": "마상",
+    "romanization": "Ma-sang",
+    "meaning": "Getting one's feelings hurt.",
+    "context": "Getting one's feelings hurt.",
+    "origin": "Short for 'Ma-eum-ui Sang-cheo'.",
+    "usageExample": {
+      "kr": "네 무관심 때문에 나 마상 입었어.",
+      "en": "I got hurt because of your indifference."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%A7%88%EC%83%81",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 48,
+    "korean": "맛점",
+    "romanization": "Mat-jeom",
+    "meaning": "Have a delicious lunch.",
+    "context": "Have a delicious lunch.",
+    "origin": "Short for 'Mat-iss-neun Jeom-sim'.",
+    "usageExample": {
+      "kr": "다들 맛점 하셨나요?",
+      "en": "Did everyone have a delicious lunch?"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%A7%9B%EC%A0%90",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 49,
+    "korean": "솔까말",
+    "romanization": "Sol-kka-mal",
+    "meaning": "To be honest.",
+    "context": "To be honest.",
+    "origin": "Short for 'Sol-jik-hi Kka-no-ko Mal-hae-seo'.",
+    "usageExample": {
+      "kr": "솔까말 이번 계획은 성공하기 힘들 것 같아.",
+      "en": "To be honest, I think this plan will be hard to succeed."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%86%94%EA%B9%81%EB%A7%90",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 50,
+    "korean": "시강",
+    "romanization": "Si-gang",
+    "meaning": "Eye-catching.",
+    "context": "Eye-catching.",
+    "origin": "Short for 'Si-seon Gang-tal'.",
+    "usageExample": {
+      "kr": "네 의상 오늘 완전 시강이다!",
+      "en": "Your outfit today is totally eye-catching!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%8B%9C%EC%84%A0%EA%B0%95%ED%83%88",
+    "theme": "트렌드 & 라이프스타일"
+  },
+  {
+    "id": 51,
+    "korean": "덕통사고",
+    "romanization": "Deok-tong-sa-go",
+    "meaning": "Unexpectedly falling in love with a celebrity, like a sudden 'car accident' of fandom.",
+    "context": "Unexpectedly falling in love with a celebrity, like a sudden 'car accident' of fandom.",
+    "origin": "Combines 'Deokhu' (fan) and 'Tong-sa-go' (traffic accident).",
+    "usageExample": {
+      "kr": "어제 드라마 보고 남주한테 덕통사고 당했어.",
+      "en": "I fell in love with the lead actor like a traffic accident after watching the drama."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%8D%95%ED%86%B5%EC%82%AC%EA%B3%A0",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 52,
+    "korean": "일코",
+    "romanization": "Il-ko",
+    "meaning": "Hiding one's fan identity in public to act like a 'normal' person.",
+    "context": "Hiding one's fan identity in public to act like a 'normal' person.",
+    "origin": "Short for 'Ilban-in Cosplay' (Normal person cosplay).",
+    "usageExample": {
+      "kr": "회사에서는 일코 중이라 책상에 굿즈 안 둬.",
+      "en": "I'm doing Il-ko at work, so I don't keep goods on my desk."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%9D%BC%EC%BD%94",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 53,
+    "korean": "어덕행덕",
+    "romanization": "Eo-deok-haeng-deok",
+    "meaning": "Since you're going to be a fan anyway, let's be a happy fan.",
+    "context": "Since you're going to be a fan anyway, let's be a happy fan.",
+    "origin": "Short for 'Eochapi Deok-jil-hal-geo Haengbok-hage Deok-jil-haja'.",
+    "usageExample": {
+      "kr": "스트레스 받지 말고 어덕행덕 하자!",
+      "en": "Don't get stressed, let's be happy fans!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%96%B4%EB%8D%95%ED%96%89%EB%8D%95",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 54,
+    "korean": "입덕",
+    "romanization": "Ip-deok",
+    "meaning": "The moment or process of becoming a fan of a certain celebrity or field.",
+    "context": "The moment or process of becoming a fan of a certain celebrity or field.",
+    "origin": "Antonym is 'Tal-deok' (leaving a fandom).",
+    "usageExample": {
+      "kr": "이 노래 듣고 바로 입덕했어.",
+      "en": "I became a fan right after hearing this song."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%9E%85%EB%8D%95",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 55,
+    "korean": "최애",
+    "romanization": "Choe-ae",
+    "meaning": "One's absolute favorite member in a group or a favorite character.",
+    "context": "One's absolute favorite member in a group or a favorite character.",
+    "origin": "Based on Hanja 'Choe' (most) and 'Ae' (love).",
+    "usageExample": {
+      "kr": "내 최애는 이번에 센터 맡은 멤버야.",
+      "en": "My favorite is the member who took the center position this time."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%B2%B4%EC%95%A0",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 56,
+    "korean": "차애",
+    "romanization": "Cha-ae",
+    "meaning": "One's second favorite member or character.",
+    "context": "One's second favorite member or character.",
+    "origin": "The next favorite after 'Choe-ae'.",
+    "usageExample": {
+      "kr": "최애는 지민이고 차애는 정국이야.",
+      "en": "My favorite is Jimin, and my second favorite is Jungkook."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%B0%A8%EC%95%A0",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 57,
+    "korean": "홈마",
+    "romanization": "Hom-ma",
+    "meaning": "A fan who runs a high-quality photography website for a celebrity.",
+    "context": "A fan who runs a high-quality photography website for a celebrity.",
+    "origin": "Short for 'Home Master'.",
+    "usageExample": {
+      "kr": "오늘 콘서트에 홈마들 진짜 많이 왔더라.",
+      "en": "A lot of Home Masters came to the concert today."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%99%88%EB%A7%88",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 58,
+    "korean": "리즈",
+    "romanization": "Leeds",
+    "meaning": "One's golden age or the peak of their beauty/career.",
+    "context": "One's golden age or the peak of their beauty/career.",
+    "origin": "Originated from football fans discussing Alan Smith's 'Leeds United' days.",
+    "usageExample": {
+      "kr": "저 가수는 지금이 완전 리즈 시절이야.",
+      "en": "That singer is in their golden age right now."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%A6%AC%EC%A6%88%20%EC%8B%9C%EC%A0%88",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 59,
+    "korean": "엔딩 요정",
+    "romanization": "Ending Yo-jeong",
+    "meaning": "The member who gets a close-up shot at the end of a performance and looks particularly beautiful.",
+    "context": "The member who gets a close-up shot at the end of a performance and looks particularly beautiful.",
+    "origin": "Became a trend through 'Produce 101' series.",
+    "usageExample": {
+      "kr": "오늘 무대 엔딩 요정은 누구였어?",
+      "en": "Who was the ending fairy of today's stage?"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%97%94%EB%94%A9%20%EC%9A%94%EC%A0%95",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 60,
+    "korean": "역주행",
+    "romanization": "Yeok-ju-haeng",
+    "meaning": "When an old song or content suddenly climbs up the charts long after its release.",
+    "context": "When an old song or content suddenly climbs up the charts long after its release.",
+    "origin": "Opposite of 'Jeong-ju-haeng' (staying on top or watching in order).",
+    "usageExample": {
+      "kr": "브레이브걸스의 롤린은 역주행의 전설이지.",
+      "en": "Brave Girls' Rollin' is a legend of climbing back up the charts."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%97%AD%EC%A3%BC%ED%96%89",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 61,
+    "korean": "정주행",
+    "romanization": "Jeong-ju-haeng",
+    "meaning": "Watching a whole series or webtoon from the first episode to the last.",
+    "context": "Watching a whole series or webtoon from the first episode to the last.",
+    "origin": "Originally meant running in the right direction.",
+    "usageExample": {
+      "kr": "주말에 드라마 1화부터 정주행했어.",
+      "en": "I binge-watched the drama from episode 1 over the weekend."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%A0%95%EC%A3%BC%ED%96%89",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 62,
+    "korean": "스포",
+    "romanization": "Seu-po",
+    "meaning": "Spoiler. Revealing important plot points of a movie or drama.",
+    "context": "Spoiler. Revealing important plot points of a movie or drama.",
+    "origin": "Short for 'Spoiler'.",
+    "usageExample": {
+      "kr": "영화 볼 거니까 스포하지 마!",
+      "en": "Don't spoil it because I'm going to watch the movie!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%8A%A4%ED%8F%AC%EC%9D%BC%EB%9F%AC",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 63,
+    "korean": "칼군무",
+    "romanization": "Kal-gun-mu",
+    "meaning": "Perfectly synchronized dancing where every movement is sharp like a knife.",
+    "context": "Perfectly synchronized dancing where every movement is sharp like a knife.",
+    "origin": "Kal' means knife, 'Gun-mu' means group dance.",
+    "usageExample": {
+      "kr": "이 그룹은 칼군무로 유명해.",
+      "en": "This group is famous for their razor-sharp synchronized dance."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%BE%BC%EA%B5%B0%EB%AC%B4",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 64,
+    "korean": "비주얼 담당",
+    "romanization": "Visual Dam-dang",
+    "meaning": "The member responsible for being the 'face' or most handsome/beautiful in a group.",
+    "context": "The member responsible for being the 'face' or most handsome/beautiful in a group.",
+    "origin": "Often shortened to 'Bi-dam'.",
+    "usageExample": {
+      "kr": "팀에서 비주얼 담당이 누구야?",
+      "en": "Who is the visual representative in the team?"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%B9%84%EC%A3%BC%EC%96%BC%20%EB%8B%B4%EB%8B%B9",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 65,
+    "korean": "음색 깡패",
+    "romanization": "Eum-saek Kkang-pae",
+    "meaning": "Someone with a uniquely beautiful or attractive voice that 'beats up' others (in a good way).",
+    "context": "Someone with a uniquely beautiful or attractive voice that 'beats up' others (in a good way).",
+    "origin": "Eum-saek' means vocal color, 'Kkang-pae' means gangster.",
+    "usageExample": {
+      "kr": "아이유는 진짜 음색 깡패야.",
+      "en": "IU really has a killer vocal color."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%9D%8C%EC%83%89%20%EA%B9%A1%ED%8C%A8",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 66,
+    "korean": "피켓팅",
+    "romanization": "P-ticketing",
+    "meaning": "Extremely difficult ticketing that is as fierce as a bloodbath.",
+    "context": "Extremely difficult ticketing that is as fierce as a bloodbath.",
+    "origin": "Combines 'Pi' (blood) and 'Ticketing'.",
+    "usageExample": {
+      "kr": "임영웅 콘서트 예매는 완전 피켓팅이었어.",
+      "en": "Booking tickets for Lim Young-woong's concert was a total bloodbath."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%8B%B0%EC%BC%80%ED%8C%85#s-2.1",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 67,
+    "korean": "연서복",
+    "romanization": "Yeon-seo-bok",
+    "meaning": "A cringey older man who thinks he's a romantic but is actually quite annoying.",
+    "context": "A cringey older man who thinks he's a romantic but is actually quite annoying.",
+    "origin": "Short for 'Yeon-ae Seot-eun Bok-hak-saeng' (Returnee student clumsy at dating).",
+    "usageExample": {
+      "kr": "그 형은 말투가 완전 연서복이야.",
+      "en": "That guy talks just like a cringey returnee student."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%97%B0%EC%84%9C%EB%B3%B5",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 68,
+    "korean": "성덕",
+    "romanization": "Seong-deok",
+    "meaning": "A fan who successfully meets their idol or works with them.",
+    "context": "A fan who successfully meets their idol or works with them.",
+    "origin": "Short for 'Seong-gong-han Deok-hu'.",
+    "usageExample": {
+      "kr": "팬이었던 배우랑 같이 연기하다니, 완전 성덕이네!",
+      "en": "Acting with the actor you were a fan of? You're a total successful fan!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%84%B1%EB%8D%95",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 69,
+    "korean": "팬싸",
+    "romanization": "Paen-ssa",
+    "meaning": "Fan signing event where fans can meet and get autographs from celebrities.",
+    "context": "Fan signing event where fans can meet and get autographs from celebrities.",
+    "origin": "Short for 'Fan Signing'.",
+    "usageExample": {
+      "kr": "이번 팬싸 당첨됐으면 좋겠다.",
+      "en": "I hope I win the lottery for this fan signing event."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%8C%AC%EC%82%AC%EC%9D%B8%ED%9A%8C",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 70,
+    "korean": "굿즈",
+    "romanization": "Goods",
+    "meaning": "Merchandise related to a celebrity, anime, or brand.",
+    "context": "Merchandise related to a celebrity, anime, or brand.",
+    "origin": "Loanword 'Goods'.",
+    "usageExample": {
+      "kr": "이번 굿즈 디자인 진짜 잘 뽑혔다.",
+      "en": "The design for this merchandise came out really well."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B5%B3%EC%A6%88",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 71,
+    "korean": "입덕 부정기",
+    "romanization": "Ip-deok Bu-jeong-gi",
+    "meaning": "The period when someone denies they have become a fan, even though they clearly are.",
+    "context": "The period when someone denies they have become a fan, even though they clearly are.",
+    "origin": "Usually involves watching all videos of the celebrity while saying 'I'm not a fan'.",
+    "usageExample": {
+      "kr": "나 입덕 부정기 끝났어. 이제 팬이야.",
+      "en": "My denial period is over. I'm a fan now."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%9E%85%EB%8D%95#s-4",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 72,
+    "korean": "컴백",
+    "romanization": "Comeback",
+    "meaning": "When a singer or group releases a new album and starts promotions again.",
+    "context": "When a singer or group releases a new album and starts promotions again.",
+    "origin": "Loanword 'Comeback'.",
+    "usageExample": {
+      "kr": "우리 오빠들 다음 달에 컴백한대!",
+      "en": "My favorite group is making a comeback next month!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%BB%B4%EB%B0%B1",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 73,
+    "korean": "데뷔",
+    "romanization": "Debut",
+    "meaning": "The first public appearance or official start of a celebrity's career.",
+    "context": "The first public appearance or official start of a celebrity's career.",
+    "origin": "Loanword 'Debut'.",
+    "usageExample": {
+      "kr": "이 연습생 언제 데뷔해?",
+      "en": "When is this trainee going to debut?"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%8D%B0%EB%B7%94",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 74,
+    "korean": "직캠",
+    "romanization": "Jik-kaem",
+    "meaning": "A fan-cam; a video of a specific celebrity filmed by a fan.",
+    "context": "A fan-cam; a video of a specific celebrity filmed by a fan.",
+    "origin": "Short for 'Jik-jeop jjigeun camera' (Directly filmed camera).",
+    "usageExample": {
+      "kr": "하니 레전드 직캠 못 본 사람 있어?",
+      "en": "Is there anyone who hasn't seen Hani's legendary fan-cam?"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%B9%A8",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 75,
+    "korean": "센터",
+    "romanization": "Center",
+    "meaning": "The member who stands in the middle of a group formation during a performance.",
+    "context": "The member who stands in the middle of a group formation during a performance.",
+    "origin": "Often the most popular or visual-focused member.",
+    "usageExample": {
+      "kr": "이번 곡 센터는 누가 맡았어?",
+      "en": "Who is the center for this song?"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%84%BC%ED%84%B0(%EC%95%84%EC%9D%B4%EB%8F%8C)",
+    "theme": "방송/연예"
+  },
+  {
+    "id": 76,
+    "korean": "월급루팡",
+    "romanization": "Wol-geup-ru-pang",
+    "meaning": "An employee who gets paid but does little to no work, 'stealing' their salary.",
+    "context": "An employee who gets paid but does little to no work, 'stealing' their salary.",
+    "origin": "Combines 'Wol-geup' (salary) and 'Lupin' (the famous thief).",
+    "usageExample": {
+      "kr": "오늘 회사에서 월급루팡 제대로 했네.",
+      "en": "I totally slacked off and 'stole' my salary at work today."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%9B%94%EA%B8%89%EB%A3%A8%ED%8C%A1",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 77,
+    "korean": "꼰대",
+    "romanization": "Kkon-dae",
+    "meaning": "An older person or boss who forces their outdated ideas on younger people.",
+    "context": "An older person or boss who forces their outdated ideas on younger people.",
+    "origin": "Originally slang for teachers, now used for anyone acting authoritative based on age.",
+    "usageExample": {
+      "kr": "우리 부장님은 진짜 전형적인 꼰대야.",
+      "en": "Our manager is a typical 'kkon-dae'."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%BC%B0%EB%8C%80",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 78,
+    "korean": "가심비",
+    "romanization": "Ga-sim-bi",
+    "meaning": "Satisfaction relative to the price. Spending money on something that makes you mentally happy regardless of cost.",
+    "context": "Satisfaction relative to the price. Spending money on something that makes you mentally happy regardless of cost.",
+    "origin": "Variation of 'Ga-seong-bi' (Cost-effectiveness).",
+    "usageExample": {
+      "kr": "비싸지만 디자인이 예뻐서 가심비 최고야.",
+      "en": "It's expensive, but the design is so pretty, so it's worth it for my satisfaction."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B0%80%EC%8B%AC%EB%B9%84",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 79,
+    "korean": "시강",
+    "romanization": "Si-gang",
+    "meaning": "Being so eye-catching that it 'steals' everyone's attention.",
+    "context": "Being so eye-catching that it 'steals' everyone's attention.",
+    "origin": "Short for 'Si-seon Gang-tal'.",
+    "usageExample": {
+      "kr": "네 빨간 머리 진짜 시강이다.",
+      "en": "Your red hair is really stealing the show."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%8B%9C%EC%84%A0%EA%B0%95%ED%83%88",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 80,
+    "korean": "솔까말",
+    "romanization": "Sol-kka-mal",
+    "meaning": "To be honest; frankly speaking.",
+    "context": "To be honest; frankly speaking.",
+    "origin": "Short for 'Sol-jik-hi Kka-no-ko Mal-hae-seo'.",
+    "usageExample": {
+      "kr": "솔까말 이번 계획은 좀 별로야.",
+      "en": "To be honest, this plan isn't that great."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%86%94%EA%B9%81%EB%A7%90",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 81,
+    "korean": "아점",
+    "romanization": "A-jeom",
+    "meaning": "Brunch; a meal between breakfast and lunch.",
+    "context": "Brunch; a meal between breakfast and lunch.",
+    "origin": "Short for 'A-chim' (Breakfast) and 'Jeom-sim' (Lunch).",
+    "usageExample": {
+      "kr": "일요일엔 늦잠 자고 아점 먹는 게 최고지.",
+      "en": "Sleeping in and having brunch on Sundays is the best."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%95%84%EC%A0%90",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 82,
+    "korean": "혼밥",
+    "romanization": "Hon-bap",
+    "meaning": "Eating alone.",
+    "context": "Eating alone.",
+    "origin": "Short for 'Hon-ja bap-meok-gi'.",
+    "usageExample": {
+      "kr": "요즘은 식당에서 혼밥 하는 게 유행이야.",
+      "en": "Eating alone at restaurants is a trend these days."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%98%BC%EB%B0%A5",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 83,
+    "korean": "혼술",
+    "romanization": "Hon-sul",
+    "meaning": "Drinking alcohol alone.",
+    "context": "Drinking alcohol alone.",
+    "origin": "Short for 'Hon-ja sul-masi-gi'.",
+    "usageExample": {
+      "kr": "퇴근하고 집에서 혼술 하는 게 낙이야.",
+      "en": "My joy is drinking alone at home after work."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%98%BC%EC%88%A0",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 84,
+    "korean": "가성비",
+    "romanization": "Ga-seong-bi",
+    "meaning": "Cost-effectiveness; getting good quality for a low price.",
+    "context": "Cost-effectiveness; getting good quality for a low price.",
+    "origin": "Short for 'Ga-gyeok dae-bi Seong-neung'.",
+    "usageExample": {
+      "kr": "이 식당은 가성비가 진짜 좋아.",
+      "en": "This restaurant is really cost-effective."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B0%80%EC%84%B1%EB%B9%84",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 85,
+    "korean": "탕진잼",
+    "romanization": "Tang-jin-jaem",
+    "meaning": "The fun of spending all your small change or small amounts of money on small luxuries.",
+    "context": "The fun of spending all your small change or small amounts of money on small luxuries.",
+    "origin": "Combines 'Tang-jin' (dissipation/wasting) and 'Jaem' (fun).",
+    "usageExample": {
+      "kr": "오늘 다이소에서 탕진잼 제대로 했어.",
+      "en": "I had so much fun spending money at Daiso today."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%83%95%EC%A7%84%EC%9E%BC",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 86,
+    "korean": "소장각",
+    "romanization": "So-jang-gak",
+    "meaning": "Something so cool or pretty that you feel you absolutely must own it.",
+    "context": "Something so cool or pretty that you feel you absolutely must own it.",
+    "origin": "Gak' is used to express a likely situation or necessity.",
+    "usageExample": {
+      "kr": "이 신발은 진짜 소장각이다.",
+      "en": "These shoes are definitely worth owning."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B0%81#s-2.1",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 87,
+    "korean": "맛점",
+    "romanization": "Mat-jeom",
+    "meaning": "Have a delicious lunch.",
+    "context": "Have a delicious lunch.",
+    "origin": "Short for 'Mat-iss-neun Jeom-sim'.",
+    "usageExample": {
+      "kr": "다들 맛점 하세요!",
+      "en": "Everyone, have a delicious lunch!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%A7%9B%EC%A0%90",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 88,
+    "korean": "마상",
+    "romanization": "Ma-sang",
+    "meaning": "Getting one's feelings hurt; emotional trauma.",
+    "context": "Getting one's feelings hurt; emotional trauma.",
+    "origin": "Short for 'Ma-eum-ui Sang-cheo'.",
+    "usageExample": {
+      "kr": "그렇게 말하면 나 마상 입어.",
+      "en": "If you say it like that, I get hurt."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%A7%88%EC%83%81",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 89,
+    "korean": "케미",
+    "romanization": "Chemi",
+    "meaning": "Chemistry between people; how well they get along.",
+    "context": "Chemistry between people; how well they get along.",
+    "origin": "Short for 'Chemistry'.",
+    "usageExample": {
+      "kr": "두 주인공의 케미가 장난 아니야.",
+      "en": "The chemistry between the two leads is insane."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%BC%80%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%A6%AC#s-2",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 90,
+    "korean": "썸",
+    "romanization": "Ssom",
+    "meaning": "The 'something' between two people before they start dating; flirting.",
+    "context": "The 'something' between two people before they start dating; flirting.",
+    "origin": "Derived from 'Something'.",
+    "usageExample": {
+      "kr": "너희 둘 요즘 썸 타는 거 아니야?",
+      "en": "Aren't you two flirting these days?"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%94%B8",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 91,
+    "korean": "밀당",
+    "romanization": "Mil-dang",
+    "meaning": "Push and pull in a romantic relationship (playing hard to get).",
+    "context": "Push and pull in a romantic relationship (playing hard to get).",
+    "origin": "Short for 'Mil-go Dang-gi-gi'.",
+    "usageExample": {
+      "kr": "연애할 때 밀당은 필수지.",
+      "en": "Push and pull is essential when dating."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%B0%80%EB%8B%B9",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 92,
+    "korean": "볼매",
+    "romanization": "Bol-mae",
+    "meaning": "Someone who gets more attractive the more you look at them.",
+    "context": "Someone who gets more attractive the more you look at them.",
+    "origin": "Short for 'Bol-su-rok Mae-ryeok-it-da'.",
+    "usageExample": {
+      "kr": "그 사람은 볼매 스타일이야.",
+      "en": "That person gets more charming the more you see them."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%B3%BC%EB%A7%A4",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 93,
+    "korean": "엄친딸",
+    "romanization": "Eom-chin-ttal",
+    "meaning": "The perfect daughter of one's mother's friend.",
+    "context": "The perfect daughter of one's mother's friend.",
+    "origin": "Female version of 'Eom-chin-a'.",
+    "usageExample": {
+      "kr": "우리 사촌 언니는 진짜 엄친딸이야.",
+      "en": "My cousin is the perfect 'mother's friend's daughter'."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%97%84%EC%B9%9C%EC%95%84",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 94,
+    "korean": "내또출",
+    "romanization": "Nae-tto-chul",
+    "meaning": "I have to go to work again tomorrow.",
+    "context": "I have to go to work again tomorrow.",
+    "origin": "Short for 'Nae-il Tto Chul-geun'.",
+    "usageExample": {
+      "kr": "일요일 밤엔 항상 내또출 때문에 우울해.",
+      "en": "I'm always depressed on Sunday nights because I have to work again tomorrow."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%A4%84%EC%9E%84%EB%A7%90/%EC%82%AC%EB%A1%80",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 95,
+    "korean": "연차",
+    "romanization": "Yeon-cha",
+    "meaning": "Annual leave; paid time off.",
+    "context": "Annual leave; paid time off.",
+    "origin": "Office worker's most precious right.",
+    "usageExample": {
+      "kr": "내일 연차 써서 회사 안 가!",
+      "en": "I'm using my annual leave tomorrow, so I'm not going to work!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%97%B0%EC%B0%A8%20%ED%9C%B4%EA%B0%80",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 96,
+    "korean": "야근",
+    "romanization": "Ya-geun",
+    "meaning": "Overtime work; working late into the night.",
+    "context": "Overtime work; working late into the night.",
+    "origin": "A common but dreaded part of Korean office culture.",
+    "usageExample": {
+      "kr": "오늘도 야근 확정이야.",
+      "en": "Overtime is confirmed for today again."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%95%BC%EA%B7%BC",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 97,
+    "korean": "퇴사",
+    "romanization": "Toe-sa",
+    "meaning": "Resigning from a job.",
+    "context": "Resigning from a job.",
+    "origin": "Often called the 'dream' of many office workers.",
+    "usageExample": {
+      "kr": "나 드디어 퇴사했어!",
+      "en": "I finally quit my job!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%80%B4%EC%82%AC",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 98,
+    "korean": "회식",
+    "romanization": "Hoe-sik",
+    "meaning": "A company dinner or get-together after work.",
+    "context": "A company dinner or get-together after work.",
+    "origin": "Sometimes seen as an extension of work, but changing lately.",
+    "usageExample": {
+      "kr": "오늘 갑자기 회식 잡혔어.",
+      "en": "A company dinner was suddenly scheduled for today."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%9A%8C%EC%8B%9D",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 99,
+    "korean": "번따",
+    "romanization": "Beon-tta",
+    "meaning": "Getting someone's phone number, usually for dating purposes.",
+    "context": "Getting someone's phone number, usually for dating purposes.",
+    "origin": "Short for 'Beon-ho Tta-gi'.",
+    "usageExample": {
+      "kr": "길 가다가 번따 당했어.",
+      "en": "Someone asked for my number on the street."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%97%8C%ED%8C%85#s-2",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 100,
+    "korean": "극혐",
+    "romanization": "Geuk-hyeom",
+    "meaning": "Extreme disgust or hatred toward something.",
+    "context": "Extreme disgust or hatred toward something.",
+    "origin": "Short for 'Geuk-han-ui Hyeom-o'.",
+    "usageExample": {
+      "kr": "벌레는 진짜 극혐이야.",
+      "en": "I absolutely hate bugs."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B7%B9%ED%98%90",
+    "theme": "직장인/일상"
+  },
+  {
+    "id": 101,
+    "korean": "노답",
+    "romanization": "No-dap",
+    "meaning": "No answer/solution. Used when a situation or a person is hopeless.",
+    "context": "No answer/solution. Used when a situation or a person is hopeless.",
+    "origin": "Combines 'No' and 'Dap' (Answer). Originated from gaming where a player's strategy is unsalvageable.",
+    "usageExample": {
+      "kr": "이 판은 진짜 노답이다.",
+      "en": "This game round is seriously hopeless."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%85%B8%EB%8B%B5",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 102,
+    "korean": "캐리",
+    "romanization": "Carry",
+    "meaning": "To lead a team to victory or play a decisive role in success.",
+    "context": "To lead a team to victory or play a decisive role in success.",
+    "origin": "Loanword from English 'Carry' in games like LoL.",
+    "usageExample": {
+      "kr": "이번 프로젝트는 네가 다 캐리했어!",
+      "en": "You totally carried this project!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%BA%90%EB%A6%AC(%EA%B2%8C%EC%9E%84)",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 103,
+    "korean": "버스",
+    "romanization": "Bus",
+    "meaning": "To be carried by a strong player without doing much work oneself.",
+    "context": "To be carried by a strong player without doing much work oneself.",
+    "origin": "Metaphor for 'riding a bus' driven by someone else. Often used in group projects too.",
+    "usageExample": {
+      "kr": "이번 과제는 조장 덕분에 버스 탔다.",
+      "en": "I got a free ride on this assignment thanks to the team leader."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%B2%84%EC%8A%A4(%EA%B2%8C%EC%9E%84)",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 104,
+    "korean": "트롤",
+    "romanization": "Troll",
+    "meaning": "A player who intentionally ruins the game for their own team.",
+    "context": "A player who intentionally ruins the game for their own team.",
+    "origin": "Loanword from English 'Trolling'.",
+    "usageExample": {
+      "kr": "제발 트롤 짓 좀 하지 마.",
+      "en": "Please stop trolling."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%8A%B8%EB%A1%A4%EB%A7%81",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 105,
+    "korean": "빡겜",
+    "romanization": "Ppak-gem",
+    "meaning": "Playing a game very seriously and intensely.",
+    "context": "Playing a game very seriously and intensely.",
+    "origin": "Short for 'Ppak-se-ge Game-ha-gi' (Playing game intensely).",
+    "usageExample": {
+      "kr": "이제 장난 그만하고 빡겜 하자.",
+      "en": "Stop joking around, let's play seriously now."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%8C%A1%EA%B2%B2",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 106,
+    "korean": "즐겜",
+    "romanization": "Jeul-gem",
+    "meaning": "Playing a game for fun rather than focusing solely on winning.",
+    "context": "Playing a game for fun rather than focusing solely on winning.",
+    "origin": "Short for 'Jeul-geop-ge Game-ha-gi'.",
+    "usageExample": {
+      "kr": "우리는 승부보다 즐겜이 목적이야.",
+      "en": "Our goal is to have fun, not just win."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%A6%90%EA%B2%B2",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 107,
+    "korean": "만렙",
+    "romanization": "Man-lep",
+    "meaning": "The maximum level attainable in a game. Also used for masters in real life.",
+    "context": "The maximum level attainable in a game. Also used for masters in real life.",
+    "origin": "Combines 'Man' (Full/10,000) and 'Level'.",
+    "usageExample": {
+      "kr": "그분은 요리 실력이 완전 만렙이야.",
+      "en": "Their cooking skills are at the maximum level."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%A7%8C%EB%A0%99",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 108,
+    "korean": "뉴비",
+    "romanization": "Newbie",
+    "meaning": "A beginner or newcomer in a game or field.",
+    "context": "A beginner or newcomer in a game or field.",
+    "origin": "Loanword from English 'Newbie'.",
+    "usageExample": {
+      "kr": "저 아직 뉴비니까 잘 부탁드려요.",
+      "en": "I'm still a newbie, so please be kind."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%89%B4%EB%B9%84",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 109,
+    "korean": "고인물",
+    "romanization": "Goin-mul",
+    "meaning": "A highly experienced veteran who has played for a long time (lit. 'stagnant water').",
+    "context": "A highly experienced veteran who has played for a long time (lit. 'stagnant water').",
+    "origin": "Initially derogatory, but now often used to describe someone with god-like expertise.",
+    "usageExample": {
+      "kr": "이 게임은 고인물들밖에 없어.",
+      "en": "This game is full of veterans only."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B3%A0%EC%9D%B8%EB%AC%BC",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 110,
+    "korean": "썩은물",
+    "romanization": "Sseogeun-mul",
+    "meaning": "An even more extreme version of 'Goin-mul' (lit. 'rotten water').",
+    "context": "An even more extreme version of 'Goin-mul' (lit. 'rotten water').",
+    "origin": "Describes someone whose skill level is beyond imagination.",
+    "usageExample": {
+      "kr": "저 사람은 실력이 썩은물 수준이야.",
+      "en": "That person's skill is at a 'rotten water' level."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B3%A0%EC%9D%B8%EB%AC%BC",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 111,
+    "korean": "갓겜",
+    "romanization": "God-gem",
+    "meaning": "A masterpiece or an exceptionally great game.",
+    "context": "A masterpiece or an exceptionally great game.",
+    "origin": "Combines 'God' and 'Game'.",
+    "usageExample": {
+      "kr": "젤다는 진짜 역대급 갓겜이다.",
+      "en": "Zelda is a legendary 'God-game'."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B0%93%EA%B2%8C",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 112,
+    "korean": "망겜",
+    "romanization": "Mang-gem",
+    "meaning": "A ruined or poor-quality game.",
+    "context": "A ruined or poor-quality game.",
+    "origin": "Combines 'Mang-han' (Ruined) and 'Game'.",
+    "usageExample": {
+      "kr": "업데이트 한 번에 망겜 됐네.",
+      "en": "It became a ruined game after one update."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%A7%9D%EA%B2%9C",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 113,
+    "korean": "현질",
+    "romanization": "Hyeon-jil",
+    "meaning": "Spending real money to buy in-game items or currency.",
+    "context": "Spending real money to buy in-game items or currency.",
+    "origin": "Short for 'Hyeon-geum Ji-reul-gi' (Throwing cash).",
+    "usageExample": {
+      "kr": "아이템 사느라 현질 좀 했어.",
+      "en": "I spent some real cash to buy items."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%98%84%EC%A7%88",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 114,
+    "korean": "뇌절",
+    "romanization": "Noe-jeol",
+    "meaning": "Doing something repeatedly until it becomes annoying or boring.",
+    "context": "Doing something repeatedly until it becomes annoying or boring.",
+    "origin": "Originally from Naruto (Chidori), but the meme shifted to meaning 'overdoing it'.",
+    "usageExample": {
+      "kr": "그 농담은 1절만 해, 뇌절하지 말고.",
+      "en": "Stop at the first joke, don't overdo it."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%87%8C%EC%A0%88#s-2",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 115,
+    "korean": "어그로",
+    "romanization": "Aggro",
+    "meaning": "Attention-seeking behavior or provoking others to get a reaction.",
+    "context": "Attention-seeking behavior or provoking others to get a reaction.",
+    "origin": "Loanword from 'Aggravation' in MMORPGs.",
+    "usageExample": {
+      "kr": "쟤는 관심을 끌려고 어그로를 끄네.",
+      "en": "He's being an attention seeker to get noticed."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%96%B4%EA%B7%B8%EB%A1%9C",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 116,
+    "korean": "딜찍누",
+    "romanization": "Dil-jjik-nu",
+    "meaning": "Crushing a difficult boss/enemy with overwhelming damage alone.",
+    "context": "Crushing a difficult boss/enemy with overwhelming damage alone.",
+    "origin": "Short for 'Deal-ro Jjik-eo Nu-reu-gi'.",
+    "usageExample": {
+      "kr": "공략 몰라도 딜찍누로 깼어.",
+      "en": "I cleared it with raw damage even without knowing the strategy."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%94%9C%EC%B0%8D%EB%88%84",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 117,
+    "korean": "국룰",
+    "romanization": "Guk-rul",
+    "meaning": "A universal or standard rule that everyone follows (lit. 'National Rule').",
+    "context": "A universal or standard rule that everyone follows (lit. 'National Rule').",
+    "origin": "Used for common sense or unspoken agreements in daily life.",
+    "usageExample": {
+      "kr": "치킨 먹을 때 무는 국룰이지.",
+      "en": "Pickled radish with chicken is the national rule."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B5%AD%EB%A3%B0",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 118,
+    "korean": "득템",
+    "romanization": "Deuk-tem",
+    "meaning": "To obtain a rare or valuable item.",
+    "context": "To obtain a rare or valuable item.",
+    "origin": "Combines 'Deuk' (Gain) and 'Item'.",
+    "usageExample": {
+      "kr": "어제 세일할 때 득템했어!",
+      "en": "I got a great find at the sale yesterday!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%93%9D%ED%85%9C",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 119,
+    "korean": "킬포",
+    "romanization": "Kil-po",
+    "meaning": "The highlight or 'killing point' of a video, song, or story.",
+    "context": "The highlight or 'killing point' of a video, song, or story.",
+    "origin": "Short for 'Killing Point'.",
+    "usageExample": {
+      "kr": "이 영상의 킬포는 30초 부분이야.",
+      "en": "The highlight of this video is at the 30-second mark."
+    },
+    "namuWikiLink": "https://namu.wiki/w/Killing%20Point",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 120,
+    "korean": "의문의 1패",
+    "romanization": "Uimun-ui 1-pae",
+    "meaning": "An unexpected or indirect 'loss' when compared to someone else.",
+    "context": "An unexpected or indirect 'loss' when compared to someone else.",
+    "origin": "Used when someone else's success makes you look bad relatively.",
+    "usageExample": {
+      "kr": "친구의 결혼 소식에 의문의 1패 당했어.",
+      "en": "I suffered an unexpected loss at my friend's wedding news."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%9D%98%EB%AC%B8%EC%9D%98%201%ED%8C%A8",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 121,
+    "korean": "멘붕",
+    "romanization": "Men-bung",
+    "meaning": "Mental breakdown; being shocked or confused.",
+    "context": "Mental breakdown; being shocked or confused.",
+    "origin": "Short for 'Mental Bung-goe'.",
+    "usageExample": {
+      "kr": "시험 점수 보고 멘붕 왔어.",
+      "en": "I had a mental breakdown after seeing my test score."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%A9%98%EB%B6%95",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 122,
+    "korean": "극딜",
+    "romanization": "Geuk-dil",
+    "meaning": "Delivering maximum damage or a sharp verbal attack.",
+    "context": "Delivering maximum damage or a sharp verbal attack.",
+    "origin": "Short for 'Geuk-han-ui Deal' (Limit Deal).",
+    "usageExample": {
+      "kr": "친구한테 팩트로 극딜 박았어.",
+      "en": "I attacked my friend with harsh facts."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B7%B9%EB%94%9C",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 123,
+    "korean": "현피",
+    "romanization": "Hyeon-pi",
+    "meaning": "A real-life physical fight between people who met online.",
+    "context": "A real-life physical fight between people who met online.",
+    "origin": "Combines 'Hyeon-sil' (Reality) and 'PK' (Player Kill).",
+    "usageExample": {
+      "kr": "댓글로 싸우다가 현피 뜰 뻔했어.",
+      "en": "We almost had a real-life fight after arguing in the comments."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%98%84%ED%94%BC",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 124,
+    "korean": "오지다",
+    "romanization": "Ojida",
+    "meaning": "Incredible, impressive, or great (often used for skill or quantity).",
+    "context": "Incredible, impressive, or great (often used for skill or quantity).",
+    "origin": "Originally a dialect, now common internet slang.",
+    "usageExample": {
+      "kr": "오늘 점심 메뉴 오지네.",
+      "en": "Today's lunch menu is incredible."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%98%A4%EC%A7%80%EB%8B%A4",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 125,
+    "korean": "지리다",
+    "romanization": "Jirida",
+    "meaning": "To be extremely impressed or scared (lit. 'to pee one's pants').",
+    "context": "To be extremely impressed or scared (lit. 'to pee one's pants').",
+    "origin": "Usually used with '오지다' (오지고 지리고).",
+    "usageExample": {
+      "kr": "방금 그 춤 실력 진짜 지렸다.",
+      "en": "That dance skill just now was mind-blowing."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%A7%80%EB%A6%AC%EB%8B%A4",
+    "theme": "게임/커뮤니티"
+  },
+  {
+    "id": 126,
+    "korean": "근본",
+    "romanization": "Geun-bon",
+    "meaning": "Legitimacy or having a solid foundation. 'The OG'.",
+    "context": "Legitimacy or having a solid foundation. 'The OG'.",
+    "origin": "Used to praise something as authentic or high-quality.",
+    "usageExample": {
+      "kr": "이 식당 돈까스가 진짜 근본이지.",
+      "en": "This restaurant's tonkatsu is the real OG."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B7%BC%EB%B3%B8",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 127,
+    "korean": "킹갓",
+    "romanization": "King-God",
+    "meaning": "Used as a prefix to emphasize that something is the absolute best.",
+    "context": "Used as a prefix to emphasize that something is the absolute best.",
+    "origin": "Combines 'King' and 'God'.",
+    "usageExample": {
+      "kr": "손흥민은 진짜 킹갓제너럴이야.",
+      "en": "Son Heung-min is truly the 'King-God-General'."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%82%B9#s-2.1",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 128,
+    "korean": "빛",
+    "romanization": "Bit",
+    "meaning": "Used to describe someone who is virtuous, talented, or great (lit. 'Light').",
+    "context": "Used to describe someone who is virtuous, talented, or great (lit. 'Light').",
+    "origin": "Placed before a name, like 'Bit-Heung-Min'. Equivalent to GOAT.",
+    "usageExample": {
+      "kr": "유재석... 그는 그저 빛.",
+      "en": "Yoo Jae-suk... he is just light."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%B9%9B(%EC%8B%A0%EC%A1%B0%EC%96%B4)",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 129,
+    "korean": "손절",
+    "romanization": "Son-jeol",
+    "meaning": "Cutting ties with someone or stopping an investment to prevent further loss.",
+    "context": "Cutting ties with someone or stopping an investment to prevent further loss.",
+    "origin": "Originally a stock market term, now used for friendships.",
+    "usageExample": {
+      "kr": "그런 친구는 빨리 손절하는 게 좋아.",
+      "en": "It's better to cut ties with that kind of friend quickly."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%86%90%EC%A0%88%EB%A7%A4#s-2",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 130,
+    "korean": "익절",
+    "romanization": "Ik-jeol",
+    "meaning": "Closing a position to realize profit. Finishing while ahead.",
+    "context": "Closing a position to realize profit. Finishing while ahead.",
+    "origin": "Opposite of 'Son-jeol'.",
+    "usageExample": {
+      "kr": "적당히 먹고 익절하고 나왔어.",
+      "en": "I made a decent profit and finished."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%9D%B5%EC%A0%88",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 131,
+    "korean": "떡상",
+    "romanization": "Tteok-sang",
+    "meaning": "A sudden and huge surge in price, popularity, or value.",
+    "context": "A sudden and huge surge in price, popularity, or value.",
+    "origin": "Commonly used in stocks, crypto, and YouTube views.",
+    "usageExample": {
+      "kr": "어제 올린 영상이 자고 일어나니 떡상했어!",
+      "en": "The video I posted yesterday went viral overnight!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%96%A1%EC%83%81",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 132,
+    "korean": "떡락",
+    "romanization": "Tteok-rak",
+    "meaning": "A sudden and huge crash in price or value.",
+    "context": "A sudden and huge crash in price or value.",
+    "origin": "Opposite of 'Tteok-sang'.",
+    "usageExample": {
+      "kr": "내 코인 수익률 떡락 중이야.",
+      "en": "My crypto returns are crashing."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%96%A1%EB%9D%BD",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 133,
+    "korean": "존버",
+    "romanization": "Jon-beo",
+    "meaning": "Holding on for dear life; persisting through a tough situation.",
+    "context": "Holding on for dear life; persisting through a tough situation.",
+    "origin": "Short for 'Jon-na Beo-ti-gi' (Enduring like crazy). Popularized by crypto investors.",
+    "usageExample": {
+      "kr": "수익 날 때까지 존버한다.",
+      "en": "I'm holding on until I make a profit."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%A1%B4%EB%B2%84",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 134,
+    "korean": "주작",
+    "romanization": "Ju-jak",
+    "meaning": "Fabricating a story or faking a situation to trick people.",
+    "context": "Fabricating a story or faking a situation to trick people.",
+    "origin": "Used to call out fake 'viral' posts or staged videos.",
+    "usageExample": {
+      "kr": "이거 주작 아니야? 너무 말이 안 돼.",
+      "en": "Isn't this staged? It makes no sense."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%A3%BC%EC%9E%91",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 135,
+    "korean": "혜자",
+    "romanization": "Hye-ja",
+    "meaning": "Great quality or quantity for the price; excellent value.",
+    "context": "Great quality or quantity for the price; excellent value.",
+    "origin": "Derived from a high-quality convenience store lunchbox by Kim Hye-ja.",
+    "usageExample": {
+      "kr": "이 식당은 양도 많고 진짜 혜자다.",
+      "en": "This restaurant is generous and a great value."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%98%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 136,
+    "korean": "창렬",
+    "romanization": "Chang-ryeol",
+    "meaning": "Poor quality or quantity for a high price; bad value.",
+    "context": "Poor quality or quantity for a high price; bad value.",
+    "origin": "Derived from a poor-quality food brand by Kim Chang-ryeol.",
+    "usageExample": {
+      "kr": "가격에 비해 너무 부실해, 완전 창렬이야.",
+      "en": "It's so poor for the price, a total rip-off."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%B0%BD%EB%A0%AC%ED%95%98%EB%8B%A4",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 137,
+    "korean": "순삭",
+    "romanization": "Sun-sak",
+    "meaning": "Something disappearing instantly (lit. 'instant deletion').",
+    "context": "Something disappearing instantly (lit. 'instant deletion').",
+    "origin": "Short for 'Sun-gan Sak-je'.",
+    "usageExample": {
+      "kr": "영화가 너무 재밌어서 2시간이 순삭됐어.",
+      "en": "The movie was so good, 2 hours flew by instantly."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%88%9C%EC%82%AD",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 138,
+    "korean": "안물안궁",
+    "romanization": "An-mul-an-gung",
+    "meaning": "Didn't ask and not curious.",
+    "context": "Didn't ask and not curious.",
+    "origin": "Short for 'An Mul-eo-bwass-go An Gung-geum-hae'.",
+    "usageExample": {
+      "kr": "그건 네 사정이고, 안물안궁!",
+      "en": "That's your business, I didn't ask and I'm not curious!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%95%88%EB%AC%BC%EC%95%88%EA%B6%81",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 139,
+    "korean": "답정너",
+    "romanization": "Dap-jeong-neo",
+    "meaning": "You have already decided on the answer, and I just have to say it.",
+    "context": "You have already decided on the answer, and I just have to say it.",
+    "origin": "Short for 'Dap-eun Jeong-hae-jin-ni Neo-neun Dae-dap-man-hae'.",
+    "usageExample": {
+      "kr": "너 지금 답정너처럼 행동하고 있어.",
+      "en": "You're acting like you already have the answer you want to hear."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%8B%B5%EC%A0%95%EB%84%88",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 140,
+    "korean": "빼박",
+    "romanization": "Ppae-bak",
+    "meaning": "Indisputable; a situation where you are stuck and can't deny it.",
+    "context": "Indisputable; a situation where you are stuck and can't deny it.",
+    "origin": "Short for 'Ppae-do Bak-do Mot-han-da'.",
+    "usageExample": {
+      "kr": "증거가 너무 확실해서 이건 빼박이야.",
+      "en": "The evidence is so clear, it's indisputable."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%B9%BC%EB%B0%95캔트",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 141,
+    "korean": "할많하않",
+    "romanization": "Hal-man-ha-anh",
+    "meaning": "I have a lot to say, but I won't.",
+    "context": "I have a lot to say, but I won't.",
+    "origin": "Short for 'Hal-mal-eun Man-chi-man Ha-ji Anh-get-da'.",
+    "usageExample": {
+      "kr": "오늘 너무 어이가 없어서... 할많하않.",
+      "en": "It was so ridiculous today... I'll just say nothing."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%95%A0%EB%A7%8E%ED%95%98%EC%95%8A",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 142,
+    "korean": "갑통알",
+    "romanization": "Gap-tong-al",
+    "meaning": "The sudden realization of an empty bank account.",
+    "context": "The sudden realization of an empty bank account.",
+    "origin": "Short for 'Gap-ja-gi Tong-jang-eul bo-ni Al-ba-ha-go sip-da' (Suddenly seeing my balance, I want to work part-time).",
+    "usageExample": {
+      "kr": "명품 샀더니 바로 갑통알 왔다.",
+      "en": "Bought a luxury item and immediately felt my empty bank account."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%A4%84%EC%9E%84%EB%A7%90/%EC%82%AC%EB%A1%80",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 143,
+    "korean": "낄낄빠빠",
+    "romanization": "Kkil-kkil-ppa-ppa",
+    "meaning": "Knowing when to join in and when to leave a conversation/situation.",
+    "context": "Knowing when to join in and when to leave a conversation/situation.",
+    "origin": "Short for 'Kkil-dae Kkil-go Ppa-jil-dae Ppa-ja'.",
+    "usageExample": {
+      "kr": "낄낄빠빠 좀 잘해라, 지금은 올 때가 아니야.",
+      "en": "Know your place, now is not the time to show up."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%81%BC%EB%81%BC%EB%B9%A0%EB%B9%A0",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 144,
+    "korean": "복세편살",
+    "romanization": "Bok-se-pyeon-sal",
+    "meaning": "Let's live comfortably in this complex world.",
+    "context": "Let's live comfortably in this complex world.",
+    "origin": "Short for 'Bok-jap-han Se-sang Pyeon-ha-ge Sal-ja'.",
+    "usageExample": {
+      "kr": "남의 눈치 보지 말고 복세편살 하자!",
+      "en": "Let's live comfortably and not care what others think!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%B3%B5%EC%84%B8%ED%8E%B8%EC%82%B4",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 145,
+    "korean": "지못미",
+    "romanization": "Ji-mot-mi",
+    "meaning": "Sorry I couldn't protect you.",
+    "context": "Sorry I couldn't protect you.",
+    "origin": "Short for 'Ji-kyeo-ju-ji Mot-hae Mi-an-hae'. Often used for funny/bad photos of friends.",
+    "usageExample": {
+      "kr": "사진이 너무 웃겨서 미안, 지못미!",
+      "en": "Sorry the photo is so funny, I couldn't protect you!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%A7%80%EB%AA%BB%EB%AF%B8",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 146,
+    "korean": "안습",
+    "romanization": "An-seup",
+    "meaning": "Pity or a situation so sad it makes your eyes damp.",
+    "context": "Pity or a situation so sad it makes your eyes damp.",
+    "origin": "Short for 'An-gu-e Seup-gi-ga cha-da' (Dampness filling the eyeballs). A bit old school but still used.",
+    "usageExample": {
+      "kr": "그 계획 망했다니 정말 안습이다.",
+      "en": "It's so sad that your plan failed."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%95%88%EC%8A%B5",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 147,
+    "korean": "완소",
+    "romanization": "Wan-so",
+    "meaning": "Completely precious; very valuable.",
+    "context": "Completely precious; very valuable.",
+    "origin": "Short for 'Wan-jeon So-jung-han'.",
+    "usageExample": {
+      "kr": "이 가방은 내 완소 아이템이야.",
+      "en": "This bag is my completely precious item."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%99%84%EC%86%8C",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 148,
+    "korean": "열공",
+    "romanization": "Yeol-gong",
+    "meaning": "Studying hard.",
+    "context": "Studying hard.",
+    "origin": "Short for 'Yeol-jung-hi Gong-bu-ha-gi'.",
+    "usageExample": {
+      "kr": "시험 기간이니까 열공 해야지!",
+      "en": "It's exam period, I gotta study hard!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%97%B4%EA%B3%B5",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 149,
+    "korean": "열폭",
+    "romanization": "Yeol-pok",
+    "meaning": "An outburst of anger driven by an inferiority complex.",
+    "context": "An outburst of anger driven by an inferiority complex.",
+    "origin": "Short for 'Yeol-deung-gam-e Ppok-bal'.",
+    "usageExample": {
+      "kr": "걔는 잘나가는 사람만 보면 열폭 하더라.",
+      "en": "He has an outburst whenever he sees someone successful."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%97%B4%ED%8F%AD",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 150,
+    "korean": "갠소",
+    "romanization": "Gaen-so",
+    "meaning": "Keeping something for personal use/collection.",
+    "context": "Keeping something for personal use/collection.",
+    "origin": "Short for 'Gae-in So-jang'.",
+    "usageExample": {
+      "kr": "이 사진은 너무 예뻐서 갠소할 거야.",
+      "en": "This photo is so pretty, I'm going to keep it for myself."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B0%AC%EC%86%8C",
+    "theme": "인터넷 밈/신조어"
+  },
+  {
+    "id": 151,
+    "korean": "오히려 좋아",
+    "romanization": "O-hui-ryeo Jo-a",
+    "meaning": "Literally 'Actually, it's better.' Used to put a positive spin on a bad or unexpected situation.",
+    "context": "Literally 'Actually, it's better.' Used to put a positive spin on a bad or unexpected situation.",
+    "origin": "Popularized by streamers and Gen Z as a way to maintain a positive mindset.",
+    "usageExample": {
+      "kr": "기차 놓쳤는데 덕분에 맛집 찾았네. 오히려 좋아!",
+      "en": "I missed the train but found a great restaurant. Actually, it's better!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%92%A4%EC%9D%B4%ED%9B%BC%20%EC%A2%8B%EC%95%84",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 152,
+    "korean": "미라클 모닝",
+    "romanization": "Miracle Morning",
+    "meaning": "Waking up very early to do productive activities like reading or exercising before the day starts.",
+    "context": "Waking up very early to do productive activities like reading or exercising before the day starts.",
+    "origin": "A global trend that became a massive self-development movement among Korean Gen Z.",
+    "usageExample": {
+      "kr": "내일부터 미라클 모닝 도전한다!",
+      "en": "I'm challenging myself to a Miracle Morning starting tomorrow!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%AF%B8%EB%9D%BC%ED%81%B4%20%EB%AA%A8%EB%8B%9D",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 153,
+    "korean": "무물보",
+    "romanization": "Mu-mul-bo",
+    "meaning": "Short for 'Ask me anything.' Frequently used on Instagram Stories' Q&A feature.",
+    "context": "Short for 'Ask me anything.' Frequently used on Instagram Stories' Q&A feature.",
+    "origin": "Short for 'Mu-eot-deun-ji Mul-eo-bo-se-yo'.",
+    "usageExample": {
+      "kr": "오늘 밤에 인스타에서 무물보 할게!",
+      "en": "I'll do an AMA on Instagram tonight!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0%EC%A7%80%20%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%84%B8%EC%9A%94",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 154,
+    "korean": "남사친",
+    "romanization": "Nam-sa-chin",
+    "meaning": "A male friend who is 'just a friend' (not a boyfriend).",
+    "context": "A male friend who is 'just a friend' (not a boyfriend).",
+    "origin": "Short for 'Nam-ja Sa-ram Chin-gu'.",
+    "usageExample": {
+      "kr": "걔는 그냥 오래된 남사친이야.",
+      "en": "He's just an old male friend."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%82%A8%EC%82%AC%EC%B9%9C",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 155,
+    "korean": "여사친",
+    "romanization": "Yeo-sa-chin",
+    "meaning": "A female friend who is 'just a friend' (not a girlfriend).",
+    "context": "A female friend who is 'just a friend' (not a girlfriend).",
+    "origin": "Short for 'Yeo-ja Sa-ram Chin-gu'.",
+    "usageExample": {
+      "kr": "여사친이랑 영화 보는 게 어때서?",
+      "en": "What's wrong with watching a movie with a female friend?"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%82%A8%EC%82%AC%EC%B9%9C",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 156,
+    "korean": "인만추",
+    "romanization": "In-man-chu",
+    "meaning": "Seeking artificial encounters (e.g., dating apps or blind dates).",
+    "context": "Seeking artificial encounters (e.g., dating apps or blind dates).",
+    "origin": "Opposite of 'Ja-man-chu' (natural encounters).",
+    "usageExample": {
+      "kr": "나는 자만추보다 인만추가 더 효율적인 것 같아.",
+      "en": "I think artificial encounters are more efficient than natural ones."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%9E%90%EB%A7%8C%EC%B3%94#s-2",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 157,
+    "korean": "너드남",
+    "romanization": "Nerd-nam",
+    "meaning": "A guy who is nerdy/geeky but in a very charming and handsome way.",
+    "context": "A guy who is nerdy/geeky but in a very charming and handsome way.",
+    "origin": "A popular romantic trope in Korean dramas and webtoons.",
+    "usageExample": {
+      "kr": "안경 쓴 모습이 완전 너드남 정석이네.",
+      "en": "The way he looks in glasses is the textbook definition of a charming nerd guy."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%84%88%EB%93%9C#s-4.1",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 158,
+    "korean": "갓벽",
+    "romanization": "God-byeok",
+    "meaning": "Godly perfect. Used when someone or something is flawless.",
+    "context": "Godly perfect. Used when someone or something is flawless.",
+    "origin": "Combines 'God' and 'Wan-byeok' (Perfect).",
+    "usageExample": {
+      "kr": "이번 무대 비주얼 진짜 갓벽하다.",
+      "en": "The visuals of this stage are truly godly perfect."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B0%93#s-2.1",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 159,
+    "korean": "댕댕이",
+    "romanization": "Daeng-daeng-i",
+    "meaning": "A cute way to say 'dog' (puppy).",
+    "context": "A cute way to say 'dog' (puppy).",
+    "origin": "Based on 'Id-eo-che' where the word '멍멍이' (meong-meong-i) looks similar to '댕댕이'.",
+    "usageExample": {
+      "kr": "우리 집 댕댕이 너무 귀엽지?",
+      "en": "Isn't my puppy so cute?"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%8C%95%EB%8C%95%EC%9D%B4",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 160,
+    "korean": "커엽다",
+    "romanization": "Keo-yeop-da",
+    "meaning": "Cute. A visual pun on the word '귀엽다' (Gwi-yeop-da).",
+    "context": "Cute. A visual pun on the word '귀엽다' (Gwi-yeop-da).",
+    "origin": "Another example of 'Id-eo-che' popular in community sites like DC Inside.",
+    "usageExample": {
+      "kr": "이 고양이 사진 진짜 커엽다.",
+      "en": "This cat photo is really cute."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%BB%A4%EC%97%BD%EB%8B%A4",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 161,
+    "korean": "띵곡",
+    "romanization": "Tting-gok",
+    "meaning": "A masterpiece song. A visual pun on '명곡' (Myeong-gok).",
+    "context": "A masterpiece song. A visual pun on '명곡' (Myeong-gok).",
+    "origin": "The character '명' looks like '띵' in certain fonts.",
+    "usageExample": {
+      "kr": "이 노래는 내 인생 띵곡이야.",
+      "en": "This song is a masterpiece of my life."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%9D%B5%EA%B3%A1",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 162,
+    "korean": "롬곡",
+    "romanization": "Rom-gok",
+    "meaning": "Tears. The word '눈물' (nun-mul) turned upside down looks like '롬곡'.",
+    "context": "Tears. The word '눈물' (nun-mul) turned upside down looks like '롬곡'.",
+    "origin": "Used when one is 'crying' (either sadly or happily).",
+    "usageExample": {
+      "kr": "진짜 너무 감동적이라 롬곡 옾눞...",
+      "en": "It's so touching, I'm crying... [upside down]"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%A1%AC%EA%B3%A1",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 163,
+    "korean": "머쓱타드",
+    "romanization": "Meosseuk-tard",
+    "meaning": "Feeling awkward or embarrassed.",
+    "context": "Feeling awkward or embarrassed.",
+    "origin": "A pun combining 'Meosseuk' (awkward) and 'Mustard'.",
+    "usageExample": {
+      "kr": "비밀인 줄 모르고 말했네... 머쓱타드.",
+      "en": "I said it not knowing it was a secret... awkward."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%A8%B8%EC%93%B1%ED%83%80%EB%93%9C",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 164,
+    "korean": "완내스",
+    "romanization": "Wan-nae-seu",
+    "meaning": "Totally my style.",
+    "context": "Totally my style.",
+    "origin": "Short for 'Wan-jeon Nae Seu-ta-il'.",
+    "usageExample": {
+      "kr": "이 카페 분위기 완전 완내스야.",
+      "en": "The vibe of this cafe is totally my style."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%A4%84%EC%9E%84%EB%A7%90/%EC%82%AC%EB%A1%80",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 165,
+    "korean": "억텐",
+    "romanization": "Eok-ten",
+    "meaning": "Forced tension or energy; faking excitement.",
+    "context": "Forced tension or energy; faking excitement.",
+    "origin": "Short for 'Eok-ji Ten-shon'.",
+    "usageExample": {
+      "kr": "리액션이 너무 억텐인 게 티 나.",
+      "en": "It's obvious that your reaction is forced."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%85%90%EC%85%98#s-2.1",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 166,
+    "korean": "찐텐",
+    "romanization": "Jjin-ten",
+    "meaning": "Real/genuine tension or energy; being truly excited.",
+    "context": "Real/genuine tension or energy; being truly excited.",
+    "origin": "Short for 'Jjin Ten-shon'.",
+    "usageExample": {
+      "kr": "이번엔 진짜 신나서 찐텐 나왔다!",
+      "en": "I was so excited that my real energy came out!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%85%90%EC%85%98#s-2.1",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 167,
+    "korean": "킹리적 갓심",
+    "romanization": "King-ri-jeok Gat-sim",
+    "meaning": "Reasonable suspicion or a logical doubt.",
+    "context": "Reasonable suspicion or a logical doubt.",
+    "origin": "A humorous way to say 'I have a strong, logical reason to suspect this.'",
+    "usageExample": {
+      "kr": "이건 네가 범인이라는 킹리적 갓심이 들어.",
+      "en": "I have a reasonable suspicion that you are the culprit."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%82%B9%EB%A6%AC%EC%A0%81%20%EA%B0%93%EC%8B%AC",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 168,
+    "korean": "슬세권",
+    "romanization": "Seul-se-gwon",
+    "meaning": "An area near home where you can go wearing slippers (full of convenient facilities).",
+    "context": "An area near home where you can go wearing slippers (full of convenient facilities).",
+    "origin": "Inspired by 'Yeok-se-gwon' (station area). Represents convenience of location.",
+    "usageExample": {
+      "kr": "우리 집은 편의점이 바로 앞인 슬세권이야.",
+      "en": "My house is in a 'slipper-zone' with a convenience store right in front."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%8A%AC%EC%84%B8%EA%B6%8C",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 169,
+    "korean": "핑거 프린세스",
+    "romanization": "Finger Princess",
+    "meaning": "Someone who asks others for information instead of searching for it themselves.",
+    "context": "Someone who asks others for information instead of searching for it themselves.",
+    "origin": "Also 'Finger Prince'. Used to tease lazy people in online communities.",
+    "usageExample": {
+      "kr": "그건 검색하면 바로 나오는데, 완전 핑공이네.",
+      "en": "You can find that instantly by searching; you're such a finger princess."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%95%91%EA%B1%B0%20%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 170,
+    "korean": "나심비",
+    "romanization": "Na-sim-bi",
+    "meaning": "Investing money for one's own mental satisfaction, regardless of the price.",
+    "context": "Investing money for one's own mental satisfaction, regardless of the price.",
+    "origin": "Focuses on 'I' (Na) rather than just cost-effectiveness.",
+    "usageExample": {
+      "kr": "나를 위한 선물로 명품 가방 샀어. 나심비 최고!",
+      "en": "I bought a luxury bag as a gift for myself. Peak personal satisfaction!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B0%80%EC%8B%AC%EB%B9%84",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 171,
+    "korean": "스라밸",
+    "romanization": "Seu-ra-baal",
+    "meaning": "Study-Life Balance. The balance between studying and personal life for students.",
+    "context": "Study-Life Balance. The balance between studying and personal life for students.",
+    "origin": "A variation of 'Wo-ra-baal' (Work-Life Balance) for the younger generation.",
+    "usageExample": {
+      "kr": "요즘 학생들에게도 스라밸이 중요해.",
+      "en": "Study-life balance is important for students these days, too."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%9B%8C%EB%9D%BC%EB%B0%B8",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 172,
+    "korean": "다꾸",
+    "romanization": "Da-ggu",
+    "meaning": "Diary decorating. A popular hobby of using stickers and pens to beautify a planner.",
+    "context": "Diary decorating. A popular hobby of using stickers and pens to beautify a planner.",
+    "origin": "Short for 'Da-i-eo-ri Ggu-mi-gi'.",
+    "usageExample": {
+      "kr": "오늘 다꾸용 스티커 쇼핑했어.",
+      "en": "I went shopping for stickers for my diary decorating today."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%8B%A4%EA%BE%B8",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 173,
+    "korean": "탑꾸",
+    "romanization": "Tap-ggu",
+    "meaning": "Top-loader decorating. Decorating the plastic sleeves used to hold K-pop photocards.",
+    "context": "Top-loader decorating. Decorating the plastic sleeves used to hold K-pop photocards.",
+    "origin": "Short for 'Top-loader Ggu-mi-gi'.",
+    "usageExample": {
+      "kr": "내 최애 포카 넣어두려고 탑꾸 했어.",
+      "en": "I decorated a top-loader to put my bias's photocard in."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%83%91%EA%BE%B8",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 174,
+    "korean": "갓반인",
+    "romanization": "Gat-ban-in",
+    "meaning": "A non-celebrity who is as admirable or talented as a 'God' (God + Ordinary person).",
+    "context": "A non-celebrity who is as admirable or talented as a 'God' (God + Ordinary person).",
+    "origin": "Used to describe cool people who aren't famous.",
+    "usageExample": {
+      "kr": "저 사람은 일반인인데 스타일이 완전 갓반인이네.",
+      "en": "That person is a non-celebrity, but their style is totally 'God-ordinary person'."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B0%93#s-2.1",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 175,
+    "korean": "어쩔저쩔",
+    "romanization": "Eo-jeol-jeo-jeol",
+    "meaning": "A variation of 'Eojjeol-TV' used to further annoy or dismiss someone.",
+    "context": "A variation of 'Eojjeol-TV' used to further annoy or dismiss someone.",
+    "origin": "Often followed by many other 'TV-related' words in a rhythmic way.",
+    "usageExample": {
+      "kr": "응~ 어쩔저쩔~ 안 들려~",
+      "en": "Yeah, whatever whatever, I can't hear you~"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%96%B4%EC%A9%94%ED%8B%B0%EB%B9%84",
+    "theme": "Z세대 트렌드"
+  },
+  {
+    "id": 176,
+    "korean": "킹왕짱",
+    "romanization": "King-Wang-Jjang",
+    "meaning": "The absolute best; the king of kings. A bit classic/old-school but still iconic.",
+    "context": "The absolute best; the king of kings. A bit classic/old-school but still iconic.",
+    "origin": "Combines 'King', 'Wang' (King in Hanja), and 'Jjang' (Best).",
+    "usageExample": {
+      "kr": "너 오늘 요리 실력 진짜 킹왕짱이다!",
+      "en": "Your cooking skills today are absolutely the best!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%82%B9%EC%99%91%EC%A7%B1",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 177,
+    "korean": "뭥미",
+    "romanization": "Mwong-mi",
+    "meaning": "What is this? / What the? (Expressing confusion).",
+    "context": "What is this? / What the? (Expressing confusion).",
+    "origin": "Originated from a typo of 'Mwo-im' (What is it?) which became a meme.",
+    "usageExample": {
+      "kr": "이 상황은 도대체 뭥미?",
+      "en": "What on earth is this situation?"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%AD%A5%EB%AF%B8",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 178,
+    "korean": "사이다",
+    "romanization": "Cider",
+    "meaning": "A refreshing situation where justice is served or someone says what everyone was thinking.",
+    "context": "A refreshing situation where justice is served or someone says what everyone was thinking.",
+    "origin": "The cool, carbonated feeling of a soda metaphorically applied to a social situation.",
+    "usageExample": {
+      "kr": "드라마 주인공의 복수, 완전 사이다네!",
+      "en": "The protagonist's revenge was so refreshing [Cider]!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%82%AC%EC%9D%B4%EB%8B%A4(%EC%8B%A0%EC%A1%B0%EC%96%B4)",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 179,
+    "korean": "고구마",
+    "romanization": "Goguma",
+    "meaning": "A frustrating, stuffy situation where things aren't moving forward (opposite of Cider).",
+    "context": "A frustrating, stuffy situation where things aren't moving forward (opposite of Cider).",
+    "origin": "The dry, heavy feeling of eating a sweet potato without water.",
+    "usageExample": {
+      "kr": "전개가 너무 느려서 고구마 먹은 것 같아.",
+      "en": "The plot is so slow, it feels like I've eaten a dry sweet potato [frustrating]."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B3%A0%EA%B5%AC%EB%A7%88(%EC%8B%A0%EC%A1%B0%EC%96%B4)",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 180,
+    "korean": "병맛",
+    "romanization": "Byeong-mat",
+    "meaning": "Something that is absurd, nonsensical, or weird but strangely entertaining.",
+    "context": "Something that is absurd, nonsensical, or weird but strangely entertaining.",
+    "origin": "Originated from webtoons that had intentionally poor drawings and weird plots.",
+    "usageExample": {
+      "kr": "이 영화 진짜 병맛인데 계속 보게 돼.",
+      "en": "This movie is so absurd, but I can't stop watching it."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%B3%91%EB%A7%9B",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 181,
+    "korean": "움짤",
+    "romanization": "Um-jjal",
+    "meaning": "An animated GIF or a short moving image.",
+    "context": "An animated GIF or a short moving image.",
+    "origin": "Short for 'Um-jik-i-neun Jjal-bang' (Moving image).",
+    "usageExample": {
+      "kr": "이 귀여운 강아지 움짤 좀 봐!",
+      "en": "Look at this cute puppy GIF!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%9B%80%EC%A7%A4",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 182,
+    "korean": "넘사벽",
+    "romanization": "Neom-sa-byeok",
+    "meaning": "An unbeatable wall; something or someone that is so superior you can't even compare.",
+    "context": "An unbeatable wall; something or someone that is so superior you can't even compare.",
+    "origin": "Short for 'Neom-gi Him-deun Sa-cha-won-ui Byeok'.",
+    "usageExample": {
+      "kr": "그 선수의 실력은 진짜 넘사벽이야.",
+      "en": "That player's skill is truly an unbeatable wall."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%84%98%EC%82%AC%EB%BD%BD",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 183,
+    "korean": "깜놀",
+    "romanization": "Gkam-nol",
+    "meaning": "Being suddenly surprised or shocked.",
+    "context": "Being suddenly surprised or shocked.",
+    "origin": "Short for 'Gkam-jjak Nol-ra-da'.",
+    "usageExample": {
+      "kr": "갑자기 나타나서 진짜 깜놀했잖아!",
+      "en": "You appeared so suddenly, you really surprised me!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B9%9C%EB%86%80",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 184,
+    "korean": "광탈",
+    "romanization": "Gwang-tal",
+    "meaning": "Being eliminated or failing instantly and miserably.",
+    "context": "Being eliminated or failing instantly and miserably.",
+    "origin": "Short for 'Gwang-sok Tal-rak' (Light-speed elimination).",
+    "usageExample": {
+      "kr": "이번 면접에서 광탈했어.",
+      "en": "I failed the interview instantly."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B4%91%ED%83%88",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 185,
+    "korean": "지름신",
+    "romanization": "Ji-reum-sin",
+    "meaning": "The 'God of Shopping' who possesses you and makes you buy things on impulse.",
+    "context": "The 'God of Shopping' who possesses you and makes you buy things on impulse.",
+    "origin": "Short for 'Ji-reu-da' (to make a big purchase/throw money).",
+    "usageExample": {
+      "kr": "결국 지름신 강림해서 카메라 샀어.",
+      "en": "The shopping god possessed me, so I finally bought the camera."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%A7%80%EB%A6%84%EC%8B%A0",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 186,
+    "korean": "안구정화",
+    "romanization": "An-gu-jeong-hwa",
+    "meaning": "Cleansing one's eyes by looking at something beautiful or handsome.",
+    "context": "Cleansing one's eyes by looking at something beautiful or handsome.",
+    "origin": "Metaphor for 'purifying' one's vision after seeing something unpleasant.",
+    "usageExample": {
+      "kr": "예쁜 풍경 보니까 안구정화 되네.",
+      "en": "Looking at the beautiful scenery is cleansing my eyes."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%95%88%EA%B5%AC%EC%A0%95%ED%99%94",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 187,
+    "korean": "먹부림",
+    "romanization": "Meok-bu-rim",
+    "meaning": "Enjoying a huge feast or showing off delicious food.",
+    "context": "Enjoying a huge feast or showing off delicious food.",
+    "origin": "Combines 'Meok-da' (Eat) and 'Bu-rim' (Acting/Indulging).",
+    "usageExample": {
+      "kr": "오늘 친구들이랑 제대로 먹부림 하고 왔어.",
+      "en": "I had a real food feast with my friends today."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%A8%B9%EB%B6%80%EB%A6%BC",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 188,
+    "korean": "빵터짐",
+    "romanization": "Ppang-teo-jim",
+    "meaning": "Bursting out into sudden, loud laughter.",
+    "context": "Bursting out into sudden, loud laughter.",
+    "origin": "Metaphorical sound of laughter exploding like a balloon.",
+    "usageExample": {
+      "kr": "너 때문에 진짜 빵터졌잖아!",
+      "en": "I totally burst out laughing because of you!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%B9%B5%ED%84%B0%EC%A7%80%EB%8B%A4",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 189,
+    "korean": "광클",
+    "romanization": "Gwang-keul",
+    "meaning": "Clicking the mouse at the speed of light (usually for ticketing or registration).",
+    "context": "Clicking the mouse at the speed of light (usually for ticketing or registration).",
+    "origin": "Short for 'Gwang-sok Click'.",
+    "usageExample": {
+      "kr": "수강 신청하려고 광클 중이야.",
+      "en": "I'm clicking like crazy to register for classes."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B4%91%ED%81%B4",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 190,
+    "korean": "반전매력",
+    "romanization": "Banjeon-maeryeok",
+    "meaning": "Unexpected charm. When someone has a hidden trait that surprises you in a good way.",
+    "context": "Unexpected charm. When someone has a hidden trait that surprises you in a good way.",
+    "origin": "A common compliment for people with diverse personalities.",
+    "usageExample": {
+      "kr": "겉은 차가워 보이는데 속은 따뜻한 반전매력이 있네.",
+      "en": "You look cold on the outside but have an unexpected warmth."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%B0%98%EC%A0%84%20%EB%A7%A4%EB%A0%A5",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 191,
+    "korean": "심멎",
+    "romanization": "Sim-meot",
+    "meaning": "Heart-stopping. Used when something is so cute or shocking that your heart 'stops'.",
+    "context": "Heart-stopping. Used when something is so cute or shocking that your heart 'stops'.",
+    "origin": "Short for 'Sim-jang-i Meot-neun-da'.",
+    "usageExample": {
+      "kr": "강아지 사진 보고 심멎할 뻔했어.",
+      "en": "My heart almost stopped after seeing the puppy photo."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%8B%AC%EB%A9%8B",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 192,
+    "korean": "핵꿀잼",
+    "romanization": "Haek-ggul-jaem",
+    "meaning": "Extremely fun or funny.",
+    "context": "Extremely fun or funny.",
+    "origin": "Combines 'Haek' (Nuclear/Ultra), 'Ggul' (Honey/Great), and 'Jaem' (Fun).",
+    "usageExample": {
+      "kr": "이번 영화 진짜 핵꿀잼이야!",
+      "en": "This movie is ultra funny!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%BF%80%EC%9E%BC",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 193,
+    "korean": "노잼",
+    "romanization": "No-jaem",
+    "meaning": "Not funny; boring.",
+    "context": "Not funny; boring.",
+    "origin": "Short for 'No Jae-mi'.",
+    "usageExample": {
+      "kr": "그 농담은 진짜 노잼이야.",
+      "en": "That joke is really not funny."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%85%B8%EC%9E%BC",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 194,
+    "korean": "개이득",
+    "romanization": "Gae-i-deuk",
+    "meaning": "A great benefit or an unexpected lucky gain.",
+    "context": "A great benefit or an unexpected lucky gain.",
+    "origin": "Gae' is used as an intensifier (lit. 'Dog-gain').",
+    "usageExample": {
+      "kr": "세일 기간이라 50% 할인받았어, 개이득!",
+      "en": "It was a sale period so I got 50% off, what a steal!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B0%9C%EC%9D%B4%EB%93%9D",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 195,
+    "korean": "심장폭격",
+    "romanization": "Simjang-pokgyeok",
+    "meaning": "Heart attack. Used when someone is overwhelmingly attractive or cute.",
+    "context": "Heart attack. Used when someone is overwhelmingly attractive or cute.",
+    "origin": "Metaphorical 'bombing' of one's heart.",
+    "usageExample": {
+      "kr": "아이돌의 윙크 한 번에 심장폭격 당함.",
+      "en": "My heart was attacked by the idol's wink."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EC%8B%AC%EC%BF%B5",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 196,
+    "korean": "훈남",
+    "romanization": "Hun-nam",
+    "meaning": "A 'warm' and handsome man who has a kind image.",
+    "context": "A 'warm' and handsome man who has a kind image.",
+    "origin": "Short for 'Hun-hun-han Nam-ja'.",
+    "usageExample": {
+      "kr": "학교에 새로 온 선생님 진짜 훈남이야.",
+      "en": "The new teacher at school is really a 'warm' handsome guy."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%9B%88%EB%82%A8",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 197,
+    "korean": "훈녀",
+    "romanization": "Hun-nyeo",
+    "meaning": "A 'warm' and beautiful woman with a kind image.",
+    "context": "A 'warm' and beautiful woman with a kind image.",
+    "origin": "Short for 'Hun-hun-han Yeo-ja'.",
+    "usageExample": {
+      "kr": "네 친구 진짜 훈녀더라.",
+      "en": "Your friend is a really 'warm' beautiful woman."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%ED%9B%88%EB%82%A8",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 198,
+    "korean": "대박",
+    "romanization": "Daebak",
+    "meaning": "Awesome, amazing, or a great success. The most iconic Korean slang.",
+    "context": "Awesome, amazing, or a great success. The most iconic Korean slang.",
+    "origin": "Originally meant 'Big hit' or 'Big jackpot'.",
+    "usageExample": {
+      "kr": "와, 이번 시험 다 맞았어? 대박!",
+      "en": "Wow, you got everything right on the exam? Awesome!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%8C%80%EB%B0%95",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 199,
+    "korean": "강추",
+    "romanization": "Gang-chu",
+    "meaning": "Highly recommended.",
+    "context": "Highly recommended.",
+    "origin": "Short for 'Gang-ryeok Chu-cheon'.",
+    "usageExample": {
+      "kr": "이 맛집 진짜 강추해!",
+      "en": "I highly recommend this restaurant!"
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EA%B0%95%EC%B6%94",
+    "theme": "감정/반응 표현"
+  },
+  {
+    "id": 200,
+    "korean": "비추",
+    "romanization": "Bi-chu",
+    "meaning": "Not recommended.",
+    "context": "Not recommended.",
+    "origin": "Short for 'Bi-chu-cheon'.",
+    "usageExample": {
+      "kr": "그 영화는 너무 재미없어서 비추야.",
+      "en": "That movie is so boring, I don't recommend it."
+    },
+    "namuWikiLink": "https://namu.wiki/w/%EB%B9%84%EC%B6%94",
+    "theme": "감정/반응 표현"
+  }
+]
