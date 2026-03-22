@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { FaSyncAlt, FaShareAlt, FaList, FaTimes, FaPlus, FaCheck } from 'react-icons/fa';
 import { Analytics } from '@vercel/analytics/react';
 import SlangCard from './components/SlangCard';
