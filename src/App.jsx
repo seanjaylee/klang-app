@@ -1,9 +1,10 @@
-import { useState } from 'react'; // Trigger deployment
+import { useState, useEffect } from 'react';
 import { FaSyncAlt, FaShareAlt, FaList, FaTimes, FaPlus, FaCheck } from 'react-icons/fa';
 import { Analytics } from '@vercel/analytics/react';
 import SlangCard from './components/SlangCard';
 import SlangList from './components/SlangList';
 import slangs from './data/slang.json';
+import { supabase } from './lib/supabaseClient';
 
 /* ── Seed requests so there's always activity showing ── */
 const SEED_REQUESTS = [
@@ -22,6 +23,32 @@ function App() {
   const [requests, setRequests] = useState(SEED_REQUESTS);
   const [form, setForm] = useState({ slang: '', reason: '' });
   const [submitted, setSubmitted] = useState(false);
+
+  useEffect(() => {
+    const fetchRequests = async () => {
+      const { data, error } = await supabase
+        .from('slang_requests')
+        .select('*')
+        .order('created_at', { ascending: false })
+        .limit(10);
+      
+      if (!error && data && data.length > 0) {
+        const formattedData = data.map(req => {
+          const date = new Date(req.created_at);
+          const diffStr = (Date.now() - date.getTime() < 86400000) ? '오늘' : date.toLocaleDateString();
+          return {
+            id: req.id,
+            slang: req.slang,
+            reason: req.reason,
+            time: diffStr
+          };
+        });
+        setRequests(formattedData);
+      }
+    };
+    
+    fetchRequests();
+  }, []);
 
   const nextSlang = () => {
     let next;
@@ -50,16 +77,27 @@ function App() {
   };
 
   /* ── Submit slang request ── */
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     if (!form.slang.trim()) return;
-    const newReq = {
+    
+    const slangVal = form.slang.trim();
+    const reasonVal = form.reason.trim();
+    const optimisticReq = {
       id: Date.now(),
-      slang: form.slang.trim(),
-      reason: form.reason.trim(),
+      slang: slangVal,
+      reason: reasonVal,
       time: '방금 전',
     };
-    setRequests(prev => [newReq, ...prev]);
+    
+    // Optimistic UI update
+    setRequests(prev => [optimisticReq, ...prev]);
+
+    // Insert to Supabase DB (silently fails if not configured, which is fine for fallback)
+    await supabase.from('slang_requests').insert([
+      { slang: slangVal, reason: reasonVal }
+    ]);
+
     setSubmitted(true);
     setForm({ slang: '', reason: '' });
     setTimeout(() => { setSubmitted(false); setShowModal(false); }, 1800);
